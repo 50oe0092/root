@@ -192,8 +192,6 @@ L = 91.45 m + 68.66 m = 160.11 m
 | 2H:1.22V             | 2 lados        | 262.58           | 78.77            |
 
 ---
-
-¿Quieres que lo convierta a PDF o lo deje listo para incluir en un informe técnico?
-
+[Recálculo de pendientes ChatGPT](https://chatgpt.com/c/680a5427-4eec-800d-b89f-bd595c921613)
 
 
