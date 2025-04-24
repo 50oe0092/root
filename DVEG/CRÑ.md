@@ -26,13 +26,12 @@ Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo
 
 [^4]: *Revisar si este planteamiento es válido y si no,*
 
-*1º recalcularlo, teniendo en cuenta que la relación de los taludes es 1.5H:1V*
+*1º recalcularlo, teniendo en cuenta que la relación de los taludes es 1.5H:1V y que sólo nos interesan 2 de sus lados (91.45 m, 68.66 m) ya que los otros 2 no requieren casi aporte*
 
 *2º Recalcular para 2H:1.22V: 
 
-*"En origen, la plataforma tenía una extensión de 6278 m2 (91.45 mx 68.66 m) sobre un talud de 6823 m2 de base (pirámide truncada) cuyo ancho medio (horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m (ver plano). Esto suponía una superficie a extensor con tierra vegetal (TV) de 638.88 m2. (proyectado) y 714.29 m2 (reales), 214.28 m3" Vuelve a repetirlo porque la superficie del talud en origen es 714.29 m2*
+*"En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 de base (pirámide truncada) cuyo ancho medio (horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m (ver plano). Esto suponía una superficie a extender con tierra vegetal (TV) de 714.29 m2 (reales); 214.28 m3 con 0.3 metros de espesor de TV*
 
-Claro, aquí tienes el mismo contenido en formato **Markdown**, ideal para incluir en documentos, reportes o editores que soporten este formato:
 
 ---
 
@@ -114,7 +113,87 @@ Se menciona que la superficie real del talud es **714.29 m²**, no 638.88 m² co
 | 2H:1.22V             | 525.16               | 157.5            |
 
 ---
+Perfecto. Aquí tienes todo el contenido solicitado, en formato **Markdown**, con el ajuste de que **solo se consideran 2 lados del perímetro de la plataforma** (91.45 m y 68.66 m) para el cálculo de la superficie de los taludes que requieren tratamiento con tierra vegetal (TV):
 
+---
+
+## ✅ Validación del Planteamiento Original
+
+**Texto original:**
+
+> "En origen, la plataforma tenía una extensión de **6278 m²** (91.45 m x 68.66 m) sobre un talud de **6823 m²** de base (pirámide truncada) cuyo **ancho medio horizontal en la zona del FFCC era de 1.4 metros** y un margen hasta el final de la zona más desfavorable de 4.56 m (ver plano). Esto suponía una **superficie a extender con tierra vegetal (TV)** de **714.29 m²** (reales); **214.28 m³** con 0.3 metros de espesor de TV."
+
+**Observación:**  
+Aunque la superficie de 714.29 m² parece ajustada en origen, el planteamiento no es del todo válido **si se modifica la pendiente de los taludes**. Es necesario **recalcular la superficie efectiva** de los **dos lados relevantes** para cada pendiente, ya que **la geometría del talud cambiará su superficie inclinada y, por ende, el volumen de tierra vegetal necesario**.
+
+---
+
+## 🔁 Recalculo considerando solo 2 lados: 91.45 m y 68.66 m
+
+Total longitud efectiva de talud:
+
+```text
+L = 91.45 m + 68.66 m = 160.11 m
+```
+
+---
+
+### 1️⃣ Talud con Pendiente **1.5H:1V**
+
+- Pendiente: 1.5H por cada 1V  
+- Ancho horizontal medio: `1.4 m`
+- Altura del talud:  
+  ```math
+  h = 1.4 / 1.5 ≈ 0.933 m
+  ```
+- Longitud inclinada:  
+  ```math
+  l = √(1.5² + 1²) × 0.933 ≈ 1.77 m
+  ```
+- Área del talud:
+  ```math
+  A = 1.77 × 160.11 ≈ 283.39 m²
+  ```
+- Volumen con 0.3 m de TV:
+  ```math
+  V = 283.39 × 0.3 ≈ 85.02 m³
+  ```
+
+---
+
+### 2️⃣ Talud con Pendiente **2H:1.22V**
+
+- Pendiente: 2H por cada 1.22V  
+- Altura del talud:
+  ```math
+  h = (1.4 / 2) × 1.22 ≈ 0.854 m
+  ```
+- Longitud inclinada:  
+  ```math
+  l = √(2² + 1.22²) × 0.7 ≈ 1.64 m
+  ```
+- Área del talud:
+  ```math
+  A = 1.64 × 160.11 ≈ 262.58 m²
+  ```
+- Volumen con 0.3 m de TV:
+  ```math
+  V = 262.58 × 0.3 ≈ 78.77 m³
+  ```
+
+---
+
+## 📊 Resumen Comparativo
+
+| Pendiente del talud | Lados tratados | Área aprox. (m²) | Volumen TV (m³) |
+|----------------------|----------------|------------------|------------------|
+| Original (714.29 m²) | 4 lados        | 714.29           | 214.28           |
+| 1.5H:1V              | 2 lados        | 283.39           | 85.02            |
+| 2H:1.22V             | 2 lados        | 262.58           | 78.77            |
+
+---
+
+¿Quieres que lo convierta a PDF o lo deje listo para incluir en un informe técnico?
 
 
 
