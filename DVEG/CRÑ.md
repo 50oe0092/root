@@ -1,20 +1,31 @@
 `CONFIDENCIAL` 
 
 # DVEG Análisis de restauración de SSEE Zgz-Te
+
 ## 0. Situación actual
 En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, de principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio alegal de aproximadamente x m3. 
 
 El caso de Teruel es diferente, debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
 (incluir tabla)
 
-Sin embargo, el replanteo y construcción posterior presentan discrepancias con el planteamiento original del proyecto, de cara al revegetado e hidrosiembra.
+Sin embargo, el replanteo y construcción posterior presentan discrepancias con el planteamiento original del proyecto, de cara al extendido de tierra vegetal e hidrosiembra.
 
-## DVEG/CRÑ
+## 0.1 Cariñena [CRÑ] 211
 En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 cuyo ancho medio (horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real), 214,28 m3[^1][^4]
 
-Planteamiento a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta, para un perfil medido por topografía de 2H:1.22V, 3.98 metros de ancho.
+Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros en su punto más desfavorable. Según topografía, el talud actual tiene 768 m2  (ver plano)
 
-Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE.             
+Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230.4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, 276 m3**. 
+
+`Cálculo costes y alternativas`
+
+## 0.2 Encinacorba [NC] 211.6
+Mismas especificaciones que para CRÑ[^1] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que en el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3 más un margen de un 20% resulta un total 106 m3 de TV**. 
+`retranqueo permite ejecutar y recuperar % talud en proyecto`
+
+## 0.3 Longares [LNG] 211.5
+
+
 
 
 ## REFERENCIAS
