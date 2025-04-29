@@ -3,9 +3,82 @@
 # Análisis de restauración de SSEE Zgz-Te
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, de principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio alegal de aproximadamente x m3. 
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio alegal de aproximadamente 162 m3[^1]. 
 
-El caso de Teruel es diferente, debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
+AREAS DECAPADO | TOTAL ESTIMADO (m3)	| EJECUTADO (m3)	| NO APTO (m3)	| POR EJECUTAR (m3)
+ ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
+ ATI 211.3   María 	1.260,38	0	0	1.260,38
+ ATI 211.4   Muel 	1.413,22	108	0	1.305,22
+ ATI 211.5   Longares 	1.611,02	219	0	1.392,02
+ SE CARIÑENA  211	9.412,15	1337	0	8.075,15
+ ATI 211.6   Encinacorba 	1.329,37	224,2	0	1.105,17
+ ATI 211.7   Mainar 	1.515,07	0	0	1.515,07
+ ATI 211.8   Villahermosa 	1.098,33	206,8	0	891,53
+ ATF 212.1   Ferreruela 	1.865,53	249,742	0	1.615,79
+ ATI 212.2   Calamocha 	1.665,12	455	0	1210.12
+ ATI 212.3   Monreal 	1.311,94	204,8	0	1.107,14
+ SE VILLAFRANCA  212	5.787,39	1001,542	0	4.785,85
+ ATI 212.4   Alba 	1.400,31	200	0	1.200,31
+ ATI 212.5   Villarquemado 	1.244,74	206,8	0	1.037,94
+ ATF 213.1   Caudé 	1.320,22	222,66	1813	-715,44
+---------------------------------------------------
+TOTAL	33.795,83	4235.544	1813	27.542,69
+ 	 	 	 	 
+ 	 	 	 	 
+				
+VOLUMEN ACOPIADO	| EJECUTADO (m3)	| EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
+ ATI 211.2  Cuarte	0	0	0	0
+ATI 211.3   María 	0	0	0	0
+ ATI 211.4   Muel 	108	0	0	0
+ ATI 211.5   Longares*	219	0	0	553,14
+ SE CARIÑENA  211	1337	0	0	162
+ ATI 211.6   Encinacorba 	224,2	0	0	0
+ ATI 211.7   Mainar 	0	0	0	0
+ ATI 211.8   Villahermosa 	206,8	0	0	0
+ ATF 212.1   Ferreruela 	249,742	0	0	1058.00
+ ATI 212.2   Calamocha **	455***	0	0	27.3
+ ATI 212.3   Monreal 	204,8	0	0	808.8
+ SE VILLAFRANCA  212	1001,542	0	0	820
+ ATI 212.4   Alba 	200	0	0	2299.69
+ ATI 212.5   Villarquemado 	206,8	0	0	1005.38
+ ATF 213.1   Caudé 	222,66	0	1813	0
+TOTAL	4235.544	0	0	1535,14
+Observaciones				 
+*Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 				 
+ **En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
+***Traslado a zona autorizada por Ayto. Calamocha con albaranes aportado				 
+ 				 
+ 				 
+ZONAS A RESTAURAR	SUPERFICIE (m2)	VOLUMEN NECESARIO (m3)
+TOTAL (m2)	RESTAURADA (m2)	PENDIENTE RESTAURACION (m2)	Espesor considerado	VOLUMEN
+ATI 211.2 CUARTE (terraplén)	 565,23	0	565,23	0,30	169,57
+ATI 211.2 CUARTE (desmonte)	360,29	0	360,29	0,30	108,09
+ATI 211.3 MARIA HUERVA (terraplén)	 460,64	0	460,64	0,30	138,19
+ATI 211.4 MUEL(terraplén)	508,48	0	508,48	0,30	152,54
+ATI 211.5 LONGARES(terraplén)	907,69	0	907,69	0,30	272,31
+SE 211 CARIÑENA(terraplén)	714,29	0	714,29	0,30	214,29
+SE 211 CARIÑENA(desmonte)	36,66	0	36,66	0,30	11,00
+ATI 211.6 ENCINACORBA	270,58	0	270,58	0,30	81,17
+ATI 211.7 MAINAR	425,24	0	425,24	0,30	127,57
+ATI 211.8 VILLAHERMOSA	538,23	0	538,23	0,30	161,47
+ATF 212.1 FERRERUELA	784,96	0	784,96	0,30	235,49
+ATI 212.2 CALAMOCHA	602,49	0	602,49	0,30	180,75
+ATI 212.3 MONREAL DEL CAMPO	428,48	0	428,48	0,30	128,54
+SE 212 VILLAFRANCA	1486,77	0	1486,77	0,30	446,03
+ATI 212.4 ALBA DE CAMPO	489,65	0	489,65	0,30	146,90
+ATI 212.5 VILLARQUEMADO	478,45	0	478,45	0,30	143,54
+ATF 213.1 CAUDE	 284,5	0	284,50	0,30	85,35
+TOTAL	7671,97	0	7956,47	 	2386,941
+
+
+Observaciones	 	 	 	 	 
+				
+BALANCE (Excedente/Déficit) (m3)	5678,88		
+ESPESOR MEDIO TV PARA ZONAS PENDIENTES DE RESTAURACIÓN (m)	0,3		
+Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. 	 
+
+
+El caso de Teruel es diferente debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
 (incluir tabla)
 
 Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
@@ -19,15 +92,16 @@ Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo
 
 `Cálculo costes y alternativas`
 
-## 0.2 Encinacorba [NC] 211.6
+## 1.2 Encinacorba [NC] 211.6
 Mismas especificaciones que para CRÑ[^1] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. 
 `retranqueo permite ejecutar y recuperar % talud en proyecto`
 
-## 0.3 Longares [LNG] 211.5
-En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un 20%, se estaría contemplando unos 239 m3 de TV. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC.
+## 1.3 Longares [LNG] 211.5
+En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
 `Plano superpuesto a imagen GE`
 
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV
+Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contando con prácticamente nada de TV en las ubicaciones. Por tanto, hay que importarla del resto de centros. En el caso de CRÑ, 
 
 
 ## REFERENCIAS
