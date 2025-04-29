@@ -5,7 +5,7 @@
 ## 1. Situación actual
 En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio alegal de aproximadamente 162 m3[^1]. 
 
-AREAS DECAPADO | TOTAL ESTIMADO (m3)	| EJECUTADO (m3)	| NO APTO (m3)	| POR EJECUTAR (m3)
+AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
  ATI 211.3   María 	1.260,38	0	0	1.260,38
  ATI 211.4   Muel 	1.413,22	108	0	1.305,22
@@ -21,7 +21,7 @@ AREAS DECAPADO | TOTAL ESTIMADO (m3)	| EJECUTADO (m3)	| NO APTO (m3)	| POR EJECU
  ATI 212.4   Alba 	1.400,31	200	0	1.200,31
  ATI 212.5   Villarquemado 	1.244,74	206,8	0	1.037,94
  ATF 213.1   Caudé 	1.320,22	222,66	1813	-715,44
----------------------------------------------------
+-------------------------------------------------------------------------
 TOTAL	33.795,83	4235.544	1813	27.542,69
  	 	 	 	 
  	 	 	 	 
@@ -53,22 +53,23 @@ ZONAS A RESTAURAR	SUPERFICIE (m2)	VOLUMEN NECESARIO (m3)
 TOTAL (m2)	RESTAURADA (m2)	PENDIENTE RESTAURACION (m2)	Espesor considerado	VOLUMEN
 ATI 211.2 CUARTE (terraplén)	 565,23	0	565,23	0,30	169,57
 ATI 211.2 CUARTE (desmonte)	360,29	0	360,29	0,30	108,09
-ATI 211.3 MARIA HUERVA (terraplén)	 460,64	0	460,64	0,30	138,19
+ATI 211.3 MARIA HUERVA (terr.)  460,64	0	460,64	0,30	138,19
 ATI 211.4 MUEL(terraplén)	508,48	0	508,48	0,30	152,54
 ATI 211.5 LONGARES(terraplén)	907,69	0	907,69	0,30	272,31
 SE 211 CARIÑENA(terraplén)	714,29	0	714,29	0,30	214,29
-SE 211 CARIÑENA(desmonte)	36,66	0	36,66	0,30	11,00
-ATI 211.6 ENCINACORBA	270,58	0	270,58	0,30	81,17
-ATI 211.7 MAINAR	425,24	0	425,24	0,30	127,57
-ATI 211.8 VILLAHERMOSA	538,23	0	538,23	0,30	161,47
-ATF 212.1 FERRERUELA	784,96	0	784,96	0,30	235,49
-ATI 212.2 CALAMOCHA	602,49	0	602,49	0,30	180,75
+SE 211 CARIÑENA(desmonte)	 36,66	0	 36,66	0,30	 11,00
+ATI 211.6 ENCINACORBA		270,58	0	270,58	0,30	 81,17
+ATI 211.7 MAINAR		425,24	0	425,24	0,30	127,57
+ATI 211.8 VILLAHERMOSA		538,23	0	538,23	0,30	161,47
+ATF 212.1 FERRERUELA		784,96	0	784,96	0,30	235,49
+ATI 212.2 CALAMOCHA		602,49	0	602,49	0,30	180,75
 ATI 212.3 MONREAL DEL CAMPO	428,48	0	428,48	0,30	128,54
-SE 212 VILLAFRANCA	1486,77	0	1486,77	0,30	446,03
-ATI 212.4 ALBA DE CAMPO	489,65	0	489,65	0,30	146,90
-ATI 212.5 VILLARQUEMADO	478,45	0	478,45	0,30	143,54
-ATF 213.1 CAUDE	 284,5	0	284,50	0,30	85,35
-TOTAL	7671,97	0	7956,47	 	2386,941
+SE 212 VILLAFRANCA	       1486,77	0	1486,77	0,30	446,03
+ATI 212.4 ALBA DE CAMPO	        489,65	0	489,65	0,30	146,90
+ATI 212.5 VILLARQUEMADO	        478,45	0	478,45	0,30	143,54
+ATF 213.1 CAUDE	                284,5	0	284,50	0,30	 85,35
+----------------------------------------------------------------------
+TOTAL	                       7671,97	0      7956,47	      2386,941
 
 
 Observaciones	 	 	 	 	 
