@@ -91,18 +91,18 @@ Planteamiento inicial a todas luces insuficiente si se quería una inclinación 
 
 Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230.4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. 
 
-`Cálculo costes y alternativas`
 
 ## 1.2 Encinacorba [NC] 211.6
-Mismas especificaciones que para CRÑ[^1] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. 
+Mismas especificaciones que para CRÑ[^X] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. 
 `retranqueo permite ejecutar y recuperar % talud en proyecto`
 
 ## 1.3 Longares [LNG] 211.5
 En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
 `Plano superpuesto a imagen GE`
 
-## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV
-Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contando con prácticamente nada de TV en las ubicaciones. Por tanto, hay que importarla del resto de centros. En el caso de CRÑ, 
+## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
+`Cálculo costes y alternativas`
+Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contando con prácticamente nada de TV en las ubicaciones. Por tanto, hay que importarla del resto de centros. En el caso de CRÑ, se parte de un volumen teórico de 225.19 m2[^5] a un precio de subcontrata de 2,78 €/m3[^6], resulta un total de 626 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788,1 €. En resumen, un coste total de restauración, sin riego ni reposición (2a pasada) de 1414,1 €. Sin embargo, dada la imposibilidad de extenderse más allá de la canaleta, se propone un ligero extendido de TV, hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. 
 
 
 ## REFERENCIAS
@@ -119,6 +119,12 @@ Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contan
 *2º Recalcular para 2H:1.22V: 
 
 *"En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 de base (pirámide truncada) cuyo ancho medio (horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m (ver plano). Esto suponía una superficie a extender con tierra vegetal (TV) de 714.29 m2 (reales); 214.28 m3 con 0.3 metros de espesor de TV*
+
+[^5]: Diario Ambiental de Obra, marzo 2025 ADIF-PE-109-001-004-F-01_Diario Amb ObraMar'25, p.13-16
+
+[^6]: *Están contratadas con PARROS a 2,78€/m3 y con ETAYO a 2,01€/m3 Y que la partida "hidrosiembra en taludes" (sin riego) está contratada en zona ZARAGOZA, con PARROS a 3,50€/m2* whatsapp 22/4/25
+
+[^7]: *Hola Jesus,soy Carlos Lalueza. Te paso los precios orientativos para unos 5,000m2 Suministro e instalación de red de coco de 400 gr/m2 ———-  4,80€/ m2 Hidrosiembra en 2 pasadas con todos los materiales incluidos : 1,04 €/m2* whatsapp 11/4/25
 
 
 ---
