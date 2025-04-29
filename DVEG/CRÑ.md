@@ -3,7 +3,7 @@
 # Análisis de restauración de SSEE Zgz-Te
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio alegal de aproximadamente 162 m3[^1]. 
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 162 m3[^1]. 
 
 AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
@@ -85,9 +85,9 @@ El caso de Teruel es diferente debido a que ha habido espacio para su acopio, si
 Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 ## 1.1 Cariñena [CRÑ] 211
-En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 cuyo ancho medio (base horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real), 214,28 m3[^1][^4]
+En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 cuyo ancho medio (base horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real); 214,28 m3[^1][^4]
 
-Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros en su punto más desfavorable. Según topografía, el talud actual tiene 768 m2  (ver plano)
+Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros en su punto más desfavorable. Según topografía, **el talud actual tiene 768.119 m2** (ver plano)
 
 Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230.4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. 
 
@@ -102,8 +102,13 @@ En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proy
 
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
 `Cálculo costes y alternativas`
-Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contando con prácticamente nada de TV en las ubicaciones. Por tanto, hay que importarla del resto de centros. En el caso de CRÑ, se parte de un volumen teórico de 225.19 m2[^5] a un precio de subcontrata de 2,78 €/m3[^6], resulta un total de 626 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788,1 €. En resumen, un coste total de restauración, sin riego ni reposición (2a pasada) de 1414,1 €. Sin embargo, dada la imposibilidad de extenderse más allá de la canaleta, se propone un ligero extendido de TV, hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. 
+### 2.1.a CRÑ (Teórico)
+Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3; no contando con prácticamente nada de TV en las ubicaciones. Por tanto, habría que importarla del resto de centros. En el caso de CRÑ, se partiría de una superficie teórica de 225.19 m2[^5] a un precio de subcontrata de 2.78 €/m3[^6], resulta un total de 626 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un coste total de restauración, sin riego ni reposición de marras (2a pasada) de 1414,1 €. 
 
+Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibilidad de extenderse más allá de dicha canaleta- se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m, 1.04 €/m2; 235 €) y el geotextil (225.19 m, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
+
+### 2.1.b CRÑ (Ejecutado) 
+Del punto 1.1 se concluye que, en realidad, es bastante superior a lo calculado en proyecto: 768.119 m2 y por tanto, hay una variación del coste. 
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
@@ -122,9 +127,10 @@ Del análisis anterior se concluye que se precisan entre 497 y 621 m3, no contan
 
 [^5]: Diario Ambiental de Obra, marzo 2025 ADIF-PE-109-001-004-F-01_Diario Amb ObraMar'25, p.13-16
 
-[^6]: *Están contratadas con PARROS a 2,78€/m3 y con ETAYO a 2,01€/m3 Y que la partida "hidrosiembra en taludes" (sin riego) está contratada en zona ZARAGOZA, con PARROS a 3,50€/m2* whatsapp 22/4/25
+[^6]: *Están contratadas con PARROS a 2,78€/m3 y con ETAYO a 2,01€/m3 Y que la partida "hidrosiembra en taludes" (sin riego) está contratada en zona ZARAGOZA, con PARROS a 3.50€/m2* whatsapp 22/4/25
 
-[^7]: *Hola Jesus,soy Carlos Lalueza. Te paso los precios orientativos para unos 5,000m2 Suministro e instalación de red de coco de 400 gr/m2 ———-  4,80€/ m2 Hidrosiembra en 2 pasadas con todos los materiales incluidos : 1,04 €/m2* whatsapp 11/4/25
+[^7]: *Hola Jesus,soy Carlos Lalueza. Te paso los precios orientativos para unos 5000 m2 Suministro e instalación de red de coco de 400 gr/m2 ———  4.80€/m2 
+Hidrosiembra en 2 pasadas con todos los materiales incluidos : 1.04 €/m2* whatsapp 11/4/25
 
 
 ---
