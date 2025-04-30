@@ -3,7 +3,7 @@
 # Análisis de restauración de SSEE Zgz-Te
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 cms de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 162 m3[^1]. 
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 metros de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial con 162 m3, LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
@@ -26,7 +26,7 @@ TOTAL	33.795,83	4235.544	1813	27.542,69
  	 	 	 	 
  	 	 	 	 
 				
-VOLUMEN ACOPIADO	| EJECUTADO (m3)	| EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
+VOLUMEN ACOPIADO	|     EJECUTADO (m3)	|  EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
  ATI 211.2  Cuarte	0	0	0	0
 ATI 211.3   María 	0	0	0	0
  ATI 211.4   Muel 	108	0	0	0
@@ -71,18 +71,18 @@ ATF 213.1 CAUDE	                284,5	0	284,50	0,30	 85,35
 ----------------------------------------------------------------------
 TOTAL	                       7671,97	0      7956,47	      2386,941
 
-
-Observaciones	 	 	 	 	 
+	 	 	 
 				
 BALANCE (Excedente/Déficit) (m3)	5678,88		
-ESPESOR MEDIO TV PARA ZONAS PENDIENTES DE RESTAURACIÓN (m)	0,3		
-Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. 	 
+ESPESOR MEDIO TV PARA ZONAS PENDIENTES DE RESTAURACIÓN (m)	0,3
+----
+FUENTE: Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. 	 
 
 
 El caso de Teruel es diferente debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
 (incluir tabla)
 
-Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
+
 
 ## 1.1 Cariñena [CRÑ] 211
 En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 cuyo ancho medio (base horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona más desfavorable de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real); 214,28 m3[^1][^4]
@@ -103,12 +103,19 @@ En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proy
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
 `Cálculo costes y alternativas`
 ### 2.1.a CRÑ (Teórico)
-Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3; no contando con prácticamente nada de TV en las ubicaciones. Por tanto, habría que importarla del resto de centros. En el caso de CRÑ, se partiría de una superficie teórica de 225.19 m2[^5] a un precio de subcontrata de 2.78 €/m3[^6], resulta un total de 626 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un coste total de restauración, sin riego ni reposición de marras (2a pasada) de 1414,1 €. 
+Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3; no contando con prácticamente nada de TV en las ubicaciones. Por tanto, habría que importarla del resto de centros. En el caso de CRÑ, se partiría de una superficie teórica de 751 m2 y un volumen teórico de  225.19 m3[^5] a un precio de subcontrata de 2.78 €/m3[^6], resulta un total de 626.03 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un **coste total de restauración** -sin riego ni reposición de marras (2a pasada)- **de 1414.19 €** 
 
-Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibilidad de extenderse más allá de dicha canaleta- se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m, 1.04 €/m2; 235 €) y el geotextil (225.19 m, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
+Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibilidad de extenderse más allá de dicha canaleta-..
+
+	se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
+
+..se propone una **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4.8 €/m2; 1344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3049.39 €
+
+
+
 
 ### 2.1.b CRÑ (Ejecutado) 
-Del punto 1.1 se concluye que, en realidad, es bastante superior a lo calculado en proyecto: 768.119 m2 y por tanto, hay una variación del coste. 
+Del punto 1.1 se concluye que, en realidad, la superficie es superior a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 3082 €, un 1%.
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
