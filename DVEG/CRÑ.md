@@ -109,13 +109,13 @@ Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibil
 
 	se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
 
-..se propone una **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4.8 €/m2; 1344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3049.39 €
+..se propone una opción de **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4.8 €/m2; 1344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3049.39 €
 
-
+Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV. 
 
 
 ### 2.1.b CRÑ (Ejecutado) 
-Del punto 1.1 se concluye que, en realidad, la superficie es superior a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 3082 €, un 1%.
+Del punto 1.1 se concluye que, en realidad, la superficie es superior a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
