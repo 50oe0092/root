@@ -2,7 +2,168 @@
 <!-->Hay un error en los contenedores de RCD: el pago por "entrega" sólo se hace una vez, al principio, y no se vuelve a pagar. Recalcula todo con este dato
 <!-->Corrige de nuevo y recalcula la proyección de los RCDs porque sólo se aumenta 1 contenedor más a los existentes y ese se cambiará 12 veces
 
-<!-->1st: Make an analysis with the table attachment bottom along 6 months and a consideration: "entrega" only pay once, in the begining. 2nd: make a projection for the next 6 months with two considerations: first, we think that "gestion" decreases to half. Second: we need to put another container to recover RCDs extra with six times to "cambio" and "gestión" 3td: take this table and remake in markdown:<-->
+<!-->1st: Make an analysis with the table attachment bottom along 6 months -It must be taken into account, in specific case of RCDs that Recalculating all and specially RCDs because every container have an average of 7430 kg- and a consideration: "entrega" only pay once, in the begining. 2nd: make a projection for the next 6 months with two considerations: first, we think that "gestion" decreases to half. Second: we need to put another container to recover RCDs extra with six times to "cambio", "gestión" and the first and unique pay for "entrega"  3td: take this table and remake in markdown:<-->
+
+<!--> 1st: Make an analysis with the table attachment bottom along 6 months -It must be taken into account, in specific case of RCDs that Recalculating all and specially RCDs because every container have an average of 7430 kg- and a consideration: "entrega" only pay once, in the begining. 2nd: make a projection for the next 6 months with two considerations: first, we think that "gestion" decreases to half. Second: we need to put another container to recover RCDs extra with six times to "cambio", "gestión" and the first and unique pay for "entrega" 3rd: the table: DescripciónCantidadCoste unit. directo excl. IVAImporte PedidoAlquiler cuba 10 cartón640,00 €240,00 €Alquiler cuba 10 RSI640,00 €240,00 €Alquiler cuba RCD630,00 €180,00 €Transporte 3 cubas1400,00 €400,00 €Entrega Cuba 5m3 RCD1140,00 €140,00 €Entrega Cuba 10m3 RSI1140,00 €140,00 €Entrega Cuba 10m3 MADERA1140,00 €140,00 €Escombro, gestion29.7200,022 €653,84 €Cambio Cuba 5m3 RCD4200,00 €800,00 €Alquiler cuba 10m3 RSI (E 10/12)127,10 €27,10 €Alquiler cuba 10m3 MADERA (E 10/12)127,10 €27,10 €Alquiler cuba 5m3 RCD (E 10/12)120,32 €20,32 €Entrega Cuba 10m3 METALES_FERR1140,00 €140,00 €RSI No Valorizable, gestión8600,08 €68,80 €Cambio Cuba 10m3 RSI1160,00 €160,00 €Alquiler Cuba 10m3 MET FERRICO140,00 €40,00 €**TOTAL3.417,16 €**
+
+Claro, aquí tienes todo el cálculo completo **revisado y corregido**, redactado de forma clara y ordenada, ahora con **12 cambios y 12 gestiones** para el nuevo contenedor de RCD:
+
+---
+
+## 🧾 **CRÑ/ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)**
+
+---
+
+## ✅ PARTE 1: **Análisis de los últimos 6 meses**
+
+Con base en la tabla original:
+
+* **Total facturado:** €3.417,16
+* Detalle aproximado:
+
+  * **Residuos RCD:** €1.794,16
+  * **Otros residuos (RSI, madera, cartón, metales):** €1.623,00
+
+### ➕ Consideraciones:
+
+* Cada contenedor de RCD transporta **7.430 kg (7,43 t)**.
+* La **gestión de escombros** se factura a razón de **22 €/t**.
+* **Entrega de contenedor** se factura una sola vez por unidad.
+
+---
+
+## ✅ PARTE 2: **Proyección para los próximos 6 meses**
+
+### 📌 Supuestos:
+
+1. **Toda la actividad general (actual)** se reduce a la **mitad**.
+2. Se añade **un nuevo contenedor** de RCD con:
+
+   * **1 entrega**
+   * **12 cambios**
+   * **12 gestiones** (con 7,43 t por cada una)
+   * **6 alquileres** (estimados)
+
+---
+
+### 🔁 A. Reducción de actividad existente (50%)
+
+| Categoría         | Coste 6 meses anteriores (€) | Ajustado al 50% (€) |
+| ----------------- | ---------------------------- | ------------------- |
+| RCD (existente)   | €1.794,16                    | €897,08             |
+| Otros residuos    | €1.623,00                    | €811,50             |
+| **Subtotal base** | —                            | **€1.708,58**       |
+
+---
+
+### 🆕 B. Nuevo contenedor RCD (12 ciclos)
+
+| Concepto                      | Unidad (€) | Cantidad | Subtotal (€)  |
+| ----------------------------- | ---------- | -------- | ------------- |
+| Entrega única                 | €140,00    | 1        | €140,00       |
+| Cambios                       | €200,00    | 12       | €2.400,00     |
+| Gestión (7,43 t x 22€)        | €163,46    | 12       | €1.961,52     |
+| Alquiler contenedor           | €30,00     | 6        | €180,00       |
+| **Subtotal nuevo contenedor** | —          | —        | **€4.681,52** |
+
+---
+
+## ✅ PARTE 3: **Resumen final y comparativa**
+
+| Período          | Coste total (€) |
+| ---------------- | --------------- |
+| Últimos 6 meses  | €3.417,16       |
+| Próximos 6 meses | €6.390,10       |
+
+---
+
+### 📌 **Conclusión**:
+
+* Aunque la actividad general se reduce a la mitad, la incorporación de un **contenedor nuevo con alta rotación (12 ciclos)** incrementa considerablemente los costes.
+* El aumento es justificado por el uso intensivo del nuevo contenedor, especialmente en **cambios** y **gestión de escombros**.
+
+---
+
+📁 Puedes descargar el archivo Excel con estos cálculos aquí:
+👉 [Proyeccion\_Residuos\_6\_meses\_CORREGIDA.xlsx](sandbox:/mnt/data/Proyeccion_Residuos_6_meses_CORREGIDA.xlsx)
+
+¿Deseas que también te genere un gráfico comparativo visual o una presentación resumida en PDF?
+
+
+
+
+
+## ✅ CORRECCIÓN CLAVE:
+
+> **Toda la producción de residuos se reduce a la mitad** en los próximos 6 meses, no solo los RCDs.
+
+Esto significa:
+
+* Todos los residuos generados (RSI, madera, cartón, metales, RCD) se reducen a la mitad.
+* Solo se suma **un nuevo contenedor RCD** con:
+
+  * 1 entrega
+  * 6 cambios
+  * 6 gestiones
+  * 6 alquileres
+
+---
+
+## 🔁 NUEVA PROYECCIÓN – PRÓXIMOS 6 MESES
+
+### 1. **Costes actuales totales (6 meses pasados):**
+
+**€3.417,16**, compuestos por:
+
+* **RCDs:** €1.794,16
+* **Otros residuos:** €1.623,00
+
+---
+
+### 2. **Reducción a la mitad de toda la actividad existente**
+
+| Categoría         | Coste anterior | Ajuste (/2) | Subtotal proyectado |
+| ----------------- | -------------- | ----------- | ------------------- |
+| RCD (existente)   | €1.794,16      | ÷2          | €897,08             |
+| Otros residuos    | €1.623,00      | ÷2          | €811,50             |
+| **Subtotal base** | —              | —           | **€1.708,58**       |
+
+---
+
+### 3. **Añadido: Nuevo contenedor de RCD (12 usos)**
+
+| Concepto                      | Coste unitario | Cantidad | Subtotal (€)  |
+| ----------------------------- | -------------- | -------- | ------------- |
+| Entrega única                 | €140,00        | 1        | €140,00       |
+| Cambios                       | €200,00        | 6        | €1.200,00     |
+| Gestión (7,43 t x €22)        | €163,46        | 6        | €980,76       |
+| Alquiler (estimado)           | €30,00         | 6        | €180,00       |
+| **Subtotal nuevo contenedor** | —              | —        | **€2.500,76** |
+
+---
+
+### ✅ PROYECCIÓN TOTAL CORREGIDA
+
+| Categoría                     | Coste proyectado (€) |
+| ----------------------------- | -------------------- |
+| Actividad base reducida (50%) | €1.708,58            |
+| Contenedor RCD adicional      | €2.500,76            |
+| **TOTAL NUEVOS 6 MESES**      | **€4.209,34** ✅      |
+
+---
+
+### 📈 Comparativa final:
+
+| Período          | Total (€) |
+| ---------------- | --------- |
+| Últimos 6 meses  | €3.417,16 |
+| Próximos 6 meses | €4.209,34 |
+
+> ✅ **El incremento es lógico**: aunque toda la actividad baja a la mitad, el nuevo contenedor RCD con 12 usos eleva el total, pero de forma **moderada y coherente**.
+
+---
+
+
 
 
 # 1. Análisis de datos de gestión de residuos (6 meses)
