@@ -1,6 +1,188 @@
 <!-->1ºHaz un análisis de estos datos correspondientes a 6 meses de gestión, teniendo en cuenta que "entrega" solo es un único pago inicial 2º Haz una proyección a 6 meses, teniendo en cuenta que hay una previsión de RCDs de 12 contenedores más
 <!-->Hay un error en los contenedores de RCD: el pago por "entrega" sólo se hace una vez, al principio, y no se vuelve a pagar. Recalcula todo con este dato
 <!-->Corrige de nuevo y recalcula la proyección de los RCDs porque sólo se aumenta 1 contenedor más a los existentes y ese se cambiará 12 veces
+
+<!-->1st: Make an analysis with the table attachment bottom along 6 months and a consideration: "entrega" only pay once, in the begining. 2nd: make a projection for the next 6 months with two considerations: first, we think that "gestion" decreases to half. Second: we need to put another container to recover RCDs extra with six times to "cambio" and "gestión" 3td: take this table and remake in markdown:<-->
+
+
+# 1. Análisis de datos de gestión de residuos (6 meses)
+
+Basándome en los datos proporcionados, realizo el siguiente análisis de la gestión de residuos durante los 6 meses, considerando que el pago por "entrega" solo se realiza una vez al inicio.
+
+## Tabla de datos en formato Markdown
+
+| Descripción | Cantidad | Coste unit. directo excl. IVA | Importe Pedido |
+|-------------|----------|-------------------------------|----------------|
+| Alquiler cuba 10 cartón | 6 | 40,00 € | 240,00 € |
+| Alquiler cuba 10 RSI | 6 | 40,00 € | 240,00 € |
+| Alquiler cuba RCD | 6 | 30,00 € | 180,00 € |
+| Transporte 3 cubas | 1 | 400,00 € | 400,00 € |
+| Entrega Cuba 5m3 RCD | 1 | 140,00 € | 140,00 € |
+| Entrega Cuba 10m3 RSI | 1 | 140,00 € | 140,00 € |
+| Entrega Cuba 10m3 MADERA | 1 | 140,00 € | 140,00 € |
+| Escombro, gestion | 29.720 | 0,022 € | 653,84 € |
+| Cambio Cuba 5m3 RCD | 4 | 200,00 € | 800,00 € |
+| Alquiler cuba 10m3 RSI (E 10/12) | 1 | 27,10 € | 27,10 € |
+| Alquiler cuba 10m3 MADERA (E 10/12) | 1 | 27,10 € | 27,10 € |
+| Alquiler cuba 5m3 RCD (E 10/12) | 1 | 20,32 € | 20,32 € |
+| Entrega Cuba 10m3 METALES_FERR | 1 | 140,00 € | 140,00 € |
+| RSI No Valorizable, gestión | 860 | 0,08 € | 68,80 € |
+| Cambio Cuba 10m3 RSI | 1 | 160,00 € | 160,00 € |
+| Alquiler Cuba 10m3 MET FERRICO | 1 | 40,00 € | 40,00 € |
+| **TOTAL** | | | **3.417,16 €** |
+
+## Análisis por categorías
+
+He agrupado los gastos en cuatro categorías principales:
+
+1. **Alquileres**: 774,52 € (22,7% del total)
+   - Incluye todos los alquileres de cubas de diferentes tipos
+
+2. **Entregas (pago único inicial)**: 560,00 € (16,4% del total)
+   - Son los pagos iniciales que solo se hacen una vez
+
+3. **Cambios y transportes**: 1.360,00 € (39,8% del total)
+   - Representa el mayor gasto en el periodo actual
+
+4. **Gestión de residuos**: 722,64 € (21,1% del total)
+   - Incluye la gestión de escombros y RSI No Valorizable
+
+## Análisis específico de RCD
+
+Los costos relacionados con RCD (Residuos de Construcción y Demolición) ascienden a 1.794,16 €, representando el 52,5% del costo total.
+
+- El promedio de escombro gestionado por uso (contenedor+cambio) es de aproximadamente 2.701,82 kg
+
+# 2. Proyección para los próximos 6 meses
+
+Para la proyección considero:
+1. La gestión de residuos se reduce a la mitad
+2. Se añade un contenedor RCD adicional con 12 cambios
+
+## Componentes de la proyección
+
+1. **Costos base sin gestión**: 2.694,52 €
+   - Todos los costos originales excepto la gestión de residuos
+
+2. **Gestión reducida a la mitad**: 361,32 €
+   - 50% de los costos originales de gestión
+
+3. **Nuevo contenedor RCD**:
+   - Alquiler: 30,00 €
+   - Cambios (12): 2.400,00 €
+   - Gestión de escombro estimada: 772,72 €
+     - Basado en 35.123,64 kg de escombros estimados (13 usos × 2.701,82 kg)
+
+## Proyección total
+
+**Costo proyectado para los próximos 6 meses: 6.258,56 €**
+
+Esto representa un aumento del 83,15% respecto al periodo anterior.
+
+## Análisis de la proyección
+
+1. El mayor incremento se debe a los 12 cambios del nuevo contenedor RCD (2.400,00 €)
+2. A pesar de reducir a la mitad los costos originales de gestión, el nuevo escombro añade 772,72 € adicionales
+3. El pago único por "entrega" no afecta a la proyección ya que no se repite
+
+## Recomendaciones
+
+1. Negociar tarifas especiales para los 12 cambios del contenedor adicional
+2. Optimizar la capacidad de llenado de los contenedores para maximizar eficiencia
+3. Evaluar alternativas para reducir los costos de gestión de escombros
+4. Considerar la posibilidad de utilizar contenedores de mayor capacidad para reducir la frecuencia de cambios
+
+¿Desea que profundice en algún aspecto específico de este análisis o proyección?
+
+# 1. Análisis de datos de gestión de residuos (6 meses)
+
+Basándome en los datos proporcionados, realizo el siguiente análisis de la gestión de residuos durante los 6 meses, considerando que el pago por "entrega" solo se realiza una vez al inicio.
+
+## Tabla de datos en formato Markdown
+
+| Descripción | Cantidad | Coste unit. directo excl. IVA | Importe Pedido |
+|-------------|----------|-------------------------------|----------------|
+| Alquiler cuba 10 cartón | 6 | 40,00 € | 240,00 € |
+| Alquiler cuba 10 RSI | 6 | 40,00 € | 240,00 € |
+| Alquiler cuba RCD | 6 | 30,00 € | 180,00 € |
+| Transporte 3 cubas | 1 | 400,00 € | 400,00 € |
+| Entrega Cuba 5m3 RCD | 1 | 140,00 € | 140,00 € |
+| Entrega Cuba 10m3 RSI | 1 | 140,00 € | 140,00 € |
+| Entrega Cuba 10m3 MADERA | 1 | 140,00 € | 140,00 € |
+| Escombro, gestion | 29.720 | 0,022 € | 653,84 € |
+| Cambio Cuba 5m3 RCD | 4 | 200,00 € | 800,00 € |
+| Alquiler cuba 10m3 RSI (E 10/12) | 1 | 27,10 € | 27,10 € |
+| Alquiler cuba 10m3 MADERA (E 10/12) | 1 | 27,10 € | 27,10 € |
+| Alquiler cuba 5m3 RCD (E 10/12) | 1 | 20,32 € | 20,32 € |
+| Entrega Cuba 10m3 METALES_FERR | 1 | 140,00 € | 140,00 € |
+| RSI No Valorizable, gestión | 860 | 0,08 € | 68,80 € |
+| Cambio Cuba 10m3 RSI | 1 | 160,00 € | 160,00 € |
+| Alquiler Cuba 10m3 MET FERRICO | 1 | 40,00 € | 40,00 € |
+| **TOTAL** | | | **3.417,16 €** |
+
+## Análisis por categorías
+
+He agrupado los gastos en cuatro categorías principales:
+
+1. **Alquileres**: 774,52 € (22,7% del total)
+   - Incluye todos los alquileres de cubas de diferentes tipos
+
+2. **Entregas (pago único inicial)**: 560,00 € (16,4% del total)
+   - Son los pagos iniciales que solo se hacen una vez
+
+3. **Cambios y transportes**: 1.360,00 € (39,8% del total)
+   - Representa el mayor gasto en el periodo actual
+
+4. **Gestión de residuos**: 722,64 € (21,1% del total)
+   - Incluye la gestión de escombros y RSI No Valorizable
+
+## Análisis específico de RCD
+
+Los costos relacionados con RCD (Residuos de Construcción y Demolición) ascienden a 1.794,16 €, representando el 52,5% del costo total.
+
+- El promedio de escombro gestionado por uso (contenedor+cambio) es de aproximadamente 2.701,82 kg
+
+# 2. Proyección para los próximos 6 meses
+
+Para la proyección considero:
+1. La gestión de residuos se reduce a la mitad
+2. Se añade un contenedor RCD adicional con 12 cambios
+
+## Componentes de la proyección
+
+1. **Costos base sin gestión**: 2.694,52 €
+   - Todos los costos originales excepto la gestión de residuos
+
+2. **Gestión reducida a la mitad**: 361,32 €
+   - 50% de los costos originales de gestión
+
+3. **Nuevo contenedor RCD**:
+   - Alquiler: 30,00 €
+   - Cambios (12): 2.400,00 €
+   - Gestión de escombro estimada: 772,72 €
+     - Basado en 35.123,64 kg de escombros estimados (13 usos × 2.701,82 kg)
+
+## Proyección total
+
+**Costo proyectado para los próximos 6 meses: 6.258,56 €**
+
+Esto representa un aumento del 83,15% respecto al periodo anterior.
+
+## Análisis de la proyección
+
+1. El mayor incremento se debe a los 12 cambios del nuevo contenedor RCD (2.400,00 €)
+2. A pesar de reducir a la mitad los costos originales de gestión, el nuevo escombro añade 772,72 € adicionales
+3. El pago único por "entrega" no afecta a la proyección ya que no se repite
+
+## Recomendaciones
+
+1. Negociar tarifas especiales para los 12 cambios del contenedor adicional
+2. Optimizar la capacidad de llenado de los contenedores para maximizar eficiencia
+3. Evaluar alternativas para reducir los costos de gestión de escombros
+4. Considerar la posibilidad de utilizar contenedores de mayor capacidad para reducir la frecuencia de cambios
+
+¿Desea que profundice en algún aspecto específico de este análisis o proyección?
+
 Entiendo la corrección. Vamos a recalcular la proyección teniendo en cuenta que solo se aumentará 1 contenedor adicional de RCD a los ya existentes, y este contenedor se cambiará 12 veces en los próximos 6 meses.
 
 # Análisis corregido de datos de gestión de residuos (6 meses)
