@@ -222,13 +222,77 @@ Con base en la tabla original:
 | **PZT0123+AMPLIACIÓN**|    2.009,56 € |
 
 * **Total facturado:** €2.009,56
-* Detalle aproximado:
-  ***Residuos RCD:** €1.794,16
-  ***Otros residuos (RSI, madera, cartón, metales):** €215,40
-### Consideraciones:
-* Cada contenedor de RCD se ha retirado con una media de **7.430 kg (7,43 Ton)**.
-* La **gestión de escombros** se factura a razón de **22 €/Ton**.
-* **Entrega de contenedor** se factura una sola vez por unidad.
+
+# Análisis Detallado de Gastos de Gestión de Residuos
+
+## Resumen de Conceptos
+
+Tras un análisis detallado de las tablas proporcionadas, podemos identificar y categorizar los siguientes conceptos clave:
+
+### 1. Tipos de Conceptos Identificados
+
+| Categoría | Descripción | Importe Total | % del Total |
+|:----------|:------------|-------------:|------------:|
+| **Alquiler** | Costes de alquiler de contenedores | 595,00 € | 29,6% |
+| **Entrega** | Costes únicos de entrega inicial | 420,00 € | 20,9% |
+| **Cambio** | Costes asociados al cambio de contenedores | 1.000,00 € | 49,8% |
+| **Gestión** | Costes de tratamiento de residuos | 144,56 € | 7,2% |
+| **TOTAL** | | **2.009,56 €** | **100%** |
+
+### 2. Distribución por Tipo de Residuo
+
+| Tipo de Residuo | Coste Total | % del Total |
+|:----------------|------------:|------------:|
+| **RCD** | 560,00 € | 27,9% |
+| **RSI** | 591,60 € | 29,4% |
+| **Madera** | 1.037,96 € | 51,7% |
+| **TOTAL** | **2.009,56 €** | **100%** |
+
+## Análisis de las Tablas
+
+### Pedido Original (PZT0123)
+- **Coste**: 360,00 €
+- **Composición**: Únicamente alquiler de contenedores
+  - Alquiler de cuba 10 RSI: 180,00 €
+  - Alquiler de cuba 5 RCD: 180,00 €
+- **Características**: Sin costes de gestión, entrega o cambio de contenedores
+
+### Ampliación
+- **Coste**: 1.649,56 €
+- **Composición**:
+  - **Alquileres adicionales**: 235,00 € (incluye RSI y Madera)
+  - **Entregas**: 420,00 € (para contenedores de Madera y RSI)
+  - **Gestión de residuos**: 144,56 € (RSI No Valorizable y Madera)
+  - **Cambios de contenedores**: 1.000,00 € (RCD, Madera y RSI)
+
+## Conclusiones
+
+1. **Distribución de Costes**:
+   - Los costes de **cambio de contenedores** representan casi el 50% del gasto total, siendo el componente principal.
+   - Los **alquileres** y **entregas** juntos suponen aproximadamente otro 50%.
+   - La **gestión** de residuos representa un porcentaje menor (7,2%).
+
+2. **Por Tipo de Residuo**:
+   - La gestión de **madera** supone el mayor coste, principalmente debido a la frecuencia de cambios.
+   - Los residuos **RSI** y **RCD** tienen costes similares pero estructuras diferentes.
+
+3. **Optimización Potencial**:
+   - Reducir la frecuencia de **cambios de contenedores** tendría el mayor impacto en ahorro.
+   - La planificación de **entregas** podría optimizarse para reducir costes.
+   - Los costes de **gestión** son relativamente pequeños en comparación con los costes logísticos.
+
+4. **Observaciones Adicionales**:
+   - El coste unitario de cambio de cuba 5m³ RCD (200€) es mayor que el de las cubas de 10m³ (160€).
+   - Los costes de gestión por kilogramo varían significativamente entre RSI (0,08€/kg) y Madera (0,012€/kg).
+   - Los alquileres tienen variaciones según el período y tipo de contenedor.
+
+Este análisis sugiere que, al planificar futuras gestiones de residuos, se debe prestar especial atención a la optimización de cambios de contenedores y a la planificación de entregas, ya que representan los mayores componentes del coste total.
+
+https://claude.ai/public/artifacts/bd299049-10a0-4764-a2c0-18d76d66faac
+
+
+
+
 ---
 ## PARTE 2: **Proyección para los próximos 6 meses**
 Se prevé un escenario de:
