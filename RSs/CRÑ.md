@@ -16,9 +16,43 @@
 
 ## PARTE 1: **Análisis de los últimos 6 meses**
 ### Cronología
+Se solicita ppto de ambos centros en base a la producción de RSs observada[^1] En base a éstos se hace comparativa de precios y resultan más ventajosos desde el punto de vista económico. 
+
+Posteriormente, se hace **proformas sólo de los gastos fijos**[^2]: entregas y alquiler de contenedores, dado que el gasto variable de retirada o cambio y gestión de RSs depende de la evolución de la producción. Así, se hace un avance a 6 meses sobre el gasto fijo.
+
+Las facturas resultantes hasta la fecha corresponden a ese gasto fijo más la geestión de los RSs, sumado a la lógica variación de producción de RSs. Caso notable es la gran cantidad de madera de palés, procedentes de la LAAT, cuando ni siquiera estaba en ppto.
+
+Nº Orden	| Código	| Código | Pliego condiones | Uds.	| Descripción	| IMPORTE DE CONTRATO	| Medición | Presup.|	Precio
+![image](https://github.com/user-attachments/assets/4c61dfc5-5326-4307-80e9-526291d3193f)[^3]
+
+01.17				ATI 7.2b	3.026,72		
+01.18				LAAT	0		
+01.18.02				GESTION DE RESIDUOS Y MEDIOAMBIENTE	0		
+01.18.02	01.18.02.001		t	CLASIFICACION EN OBRA DE RDC MEZCLADOS	91,6476	43,230	2,12
+01.18.02	01.18.02.002		t	LER 17 01 01. GESTION DE RESIDUOS DE HORMIGON SIN MEZCLA	384,9125	103,750	3,71
+01.18.02	01.18.02.003		t	LER 170504. TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL CODIGO 170503	2422,9476	1.302,660	1,86
+01.18.02	01.18.02.004		t	RESIDUOS PELIGROSOS	127,21	1,000	127,21
+01.18.02	01.18.02.005		m2	DESCOMPACTACION Y PREPARACION EL TERRENO	22334,4	82.720,000	0,27
+01.18.02	01.18.02.006	NMA07	m3	PROSPECCION BOTANICA	530	1,000	530,00
+01.18.02	01.18.02.007		ud	PROSPECCION DE ZONAS DE ALIMENTACION DE AVIFAUNA PROTEGIDA	1272	1,000	1.272,00
+01.18.02	01.18.02.008		m	CERCADO PROVISIONAL DE PROTECCION ESPECIAL	752,5	50,000	15,05
+01.18.02	01.18.02.009		ud	ESTUDIO DE RUIDO	1590	1,000	1.590,00
+01.18.02	01.18.02.010		m3	APORTE Y EXTENDIDO DE TIERRA VEGETAL, CON TIERRA PROCEDENTE DE LA EXCAVACION	30115,065	27.628,500	1,09
+01.18.02	01.18.02.011	UX01XMNT007	ud	SEGUIMIENTO ARQUEOLOGICO DURANTE DE LA FASE DE EXCAVACION DE LA OBRA, INCLUYENDO REDACCION DE INFORME	8162	7,700	1.060,00
+![image](https://github.com/user-attachments/assets/ca7dc8ba-2c3b-43cd-8b02-153899a31f87)
+
+Así, la producción y gestión de RSs a lo largo de 6 meses es la siguiente:
+
+
+
+----
+[^1]: Ppto. 30/10/24 mail 19/11 (CRÑ, RNP) y siguientes
+[^2]: Proformas, mail 11/12
+[^3]: HOJA DE MEDICIONES DEL EXPEDIENTE 3.23/06110.0120 CORRESPONDIENTE A LA CERTIFICACION NUMERO 7 DEL MES 09-2024 
+
 
 ### 1.1 Análisis
-Con base en la tabla original:
+Con base en la tabla original
 * **Total facturado:** €3.417,16
 * Detalle aproximado:
   * **Residuos RCD:** €1.794,16
