@@ -7,12 +7,23 @@
 <!--> 1st: Make an analysis with the table attachment bottom along 6 months -It must be taken into account, in specific case of RCDs that Recalculating all and specially RCDs because every container have an average of 7430 kg- and a consideration: "entrega" only pay once, in the begining. 2nd: make a projection for the next 6 months with two considerations: first, we think that "gestion" decreases to half. Second: we need to put another container to recover RCDs extra with six times to "cambio", "gestión" and the first and unique pay for "entrega" 3rd: the table: DescripciónCantidadCoste unit. directo excl. IVAImporte PedidoAlquiler cuba 10 cartón640,00 €240,00 €Alquiler cuba 10 RSI640,00 €240,00 €Alquiler cuba RCD630,00 €180,00 €Transporte 3 cubas1400,00 €400,00 €Entrega Cuba 5m3 RCD1140,00 €140,00 €Entrega Cuba 10m3 RSI1140,00 €140,00 €Entrega Cuba 10m3 MADERA1140,00 €140,00 €Escombro, gestion29.7200,022 €653,84 €Cambio Cuba 5m3 RCD4200,00 €800,00 €Alquiler cuba 10m3 RSI (E 10/12)127,10 €27,10 €Alquiler cuba 10m3 MADERA (E 10/12)127,10 €27,10 €Alquiler cuba 5m3 RCD (E 10/12)120,32 €20,32 €Entrega Cuba 10m3 METALES_FERR1140,00 €140,00 €RSI No Valorizable, gestión8600,08 €68,80 €Cambio Cuba 10m3 RSI1160,00 €160,00 €Alquiler Cuba 10m3 MET FERRICO140,00 €40,00 €**TOTAL3.417,16 €**
 
 
+# RESUMEN
+- Hasta el momento, se prevé la ejecución entre un 7-12% de lo presupuestado hasta noviembre de 2025 con un saldo favorable de 137.098,33 €.
+- En el caso de CRÑ se prevé la reducción de la producción de RSs a la mitad y de 12 ciclos adicionales de RCDs
+- En el caso de, al menos CRÑ, se prevé segregar RCD para desbloquear dos capítulos más de Medio Ambiente (segregación de RCDs y gestión de RCDs sin mezcla)
+- En el caso de MNR se prevén dos escenarios; el mantenimiento del ritmo de producción de RSs o bien, la reducción de un 50%. En ambos casos, hay una previsión de 4 ciclos adicionales de gestión de RCD procedentes de las zonas de lavado
+
+
+Total CRÑ	nov-abr'25	may-nov'25	BALANCE	%
+80.908,74 €	3.417,16 €	6.390,10 €	71.101,48 €	12,12%
+
+TOTAL VLLF	nov-abr'25	may-nov'25	BALANCE	%
+ 70.725,03 € 	 2.009,56 € 	 2.718,62 € 	65.996,85 €	6,69% 
 
 
 
-# CRÑ / ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)
 
----
+# CRÑ / ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS NO PELIGROSOS [RNP] (6 MESES)
 
 ## PARTE 1: **Análisis de los últimos 6 meses**
 ### Cronología
@@ -155,6 +166,8 @@ LER 17 09 04. GESTION DE MEZCLA DE RESIDUOS NO PELIGROSOS
 LER 20 02 01. GESTION DE RESIDUOS DE MATERIAL BIODEGRADABLE
 LER 170504. TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL CODIGO 170503
 RESIDUOS PELIGROSOS
+----
+Fuente:
 
 
 
@@ -163,9 +176,8 @@ RESIDUOS PELIGROSOS
 
 
 
----
 # MNR/ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)
----
+
 ## PARTE 1: **Análisis de los últimos 6 meses**
 ### Cronología
 ### 1.1 Análisis
@@ -184,16 +196,23 @@ Se prevé un escenario de:
 1. actividad reducida a la mitad, debido a lo avanzado de la obra civil de la SE VLLF, que es con mucho, el centro con mayor obra civil en Te.
 2. Se añade **un nuevo contenedor** de RCD para retirada de zona lavado cubas con:
    ***1 entrega**
-   ***12 cambios**
-   ***12 gestiones** (con 7,43 t por cada una)
+   ***4 cambios**
+   ***4 gestiones** (con 7,43 t por cada una)
    ***6 alquileres** (estimados)
 ---
-### A.1 Reducción de actividad existente (50%)
+### A.1 Reducción de la producción RSs existente (50%)
 | Categoría         | Coste 6 meses anteriores (€) | Ajustado al 50% (€) |
-| ----------------- | ---------------------------- | ------------------- |
+| ----------------- | ---------------------------: | -----------------:  |
 | RCD (existente)   | €1.794,16                    | €897,08             |
 | Otros residuos    | €215,40                      | €107,70             |
 | **Subtotal base** | —                            | **€1.004,78**       |
+
+### A.2 Continuidad producción RSs existente
+| Categoría         | Coste 6 meses anteriores (€) | Sin ajustar (€) |
+| ----------------- | ---------------------------- | ------------------- |
+| RCD (existente)   | €1.794,16                    | €1.794,16           |
+| Otros residuos    | €215,40                      | €215,40             |
+| **Subtotal base** | —                            | **€2.009,56**       |
 ---
 ### B. Nuevo contenedor RCD (4 ciclos)
 | Concepto                      | Unidad (€) | Cantidad | Subtotal (€)  |
@@ -205,10 +224,18 @@ Se prevé un escenario de:
 | **Subtotal nuevo contenedor** | —          | —        | **€1.713,84** |
 ---
 ## PARTE 3: **Resumen final y comparativa**
+### A.1 Reducción de la producción RSs existente (50%)
 | Período          | Coste total (€) |
 | ---------------- | --------------- |
 | Últimos 6 meses  | €2.009,56       |
 | Próximos 6 meses | €2.718,62       |
+
+### A.2 Continuidad producción RSs existente
+
+| Período          | Coste total (€) |
+| ---------------- | --------------- |
+| Últimos 6 meses  | €2.009,56       |
+| Próximos 6 meses | €3.722       |
 
 *Nota: Los cálculos se basan en los datos proporcionados, considerando la reducción de actividad y la adición de un nuevo contenedor de RCD.*
 
