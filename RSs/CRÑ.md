@@ -182,6 +182,45 @@ Fuente:
 ### Cronología
 ### 1.1 Análisis
 Con base en la tabla original:
+| Descripción            | Cantidad | Coste unit. directo excl. IVA | Importe Pedido |
+|:------------------------|---------:|-------------------------------:|----------------:|
+| Alquiler cuba 10 RSI    |        6 |                         30 €   |         180,00 € |
+| Alquiler cuba 5 RCD     |        6 |                         30 €   |         180,00 € |
+|                         |          |                                |         360,00 € |
+
+---
+
+### Ampliación
+
+| Descripción                             | Cantidad | Coste unit. directo excl. IVA | Importe Pedido |
+|:----------------------------------------|---------:|-------------------------------:|----------------:|
+| Alquiler cuba 10 RSI                    |        6 |                         30 €   |         180,00 € |
+| Alquiler cuba 5 RCD                     |        6 |                         30 €   |         180,00 € |
+| Entrega Cuba 10m³ MADERA                |        2 |                        140 €   |         280,00 € |
+| Entrega Cuba 10m³ RSI                   |        1 |                        140 €   |         140,00 € |
+| Alquiler cuba 10m³ RSI (08/1/)          |        1 |                         22 €   |          22,00 € |
+| Alquiler cuba 10m³ MADERA (08/1/)       |        1 |                         29 €   |          29,00 € |
+| RSI No Valorizable, Gestión             |     1120 |                          0,08 €|          89,60 € |
+| Madera Gestión                          |     4580 |                          0,012 €|         54,96 € |
+| Cambio de Cuba 5m³ RCD                  |        1 |                        200 €   |         200,00 € |
+| Alquiler cuba 10m³ MADERA (R21/02)      |        1 |                         23 €   |          23,00 € |
+| Alquiler cuba 10m³ MADERA (E20/02)      |        1 |                         11 €   |          11,00 € |
+| Cambio de cuba 10m³ MADERA              |        4 |                        160 €   |         640,00 € |
+| Cambio de cuba 10m³ RSI                 |        1 |                        160 €   |         160,00 € |
+|:----------------------------------------|---------:|-------------------------------:|----------------:|
+|                                         |          |                 Total          |      **1.649,56 €** |
+
+---
+
+### Totales
+
+| Concepto              | Total         |
+|:----------------------|--------------:|
+| **PZT0123**           |      360,00 € |
+| **Ampliación**        |    1.649,56 € |
+|:----------------------|--------------:|
+| **PZT0123+AMPLIACIÓN**|    2.009,56 € |
+
 * **Total facturado:** €2.009,56
 * Detalle aproximado:
   ***Residuos RCD:** €1.794,16
