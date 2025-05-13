@@ -10,17 +10,18 @@
 
 
 
-# CRÑ/ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)
+# CRÑ / ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)
 
 ---
 
 ## PARTE 1: **Análisis de los últimos 6 meses**
 ### Cronología
-Se solicita ppto de ambos centros en base a la producción de RSs observada[^1] En base a éstos se hace comparativa de precios y resultan más ventajosos desde el punto de vista económico. 
+Se solicita ppto de ambos centros o Puntos Limpios (PL) -Cariñena (CRÑ) y Monreal (MNR)- en base a la producción de RSs observada[^1] en los centros abiertos, además de los citados: Muel, Longares, Encinacorba, Villahermosa en Zgz; Calamocha, Villafranca y Ferreruela en Te. En base a éstos se hace comparativa de precios y resultan más ventajosos desde el punto de vista económico. 
 
 Posteriormente, se hace **proformas sólo de los gastos fijos**[^2]: entregas y alquiler de contenedores, dado que el gasto variable de retirada o cambio y gestión de RSs depende de la evolución de la producción. Así, se hace un avance a 6 meses sobre el gasto fijo.
 
-Las facturas resultantes hasta la fecha corresponden a ese gasto fijo más la geestión de los RSs, sumado a la lógica variación de producción de RSs. Caso notable es la gran cantidad de madera de palés, procedentes de la LAAT, cuando ni siquiera estaba en ppto.
+Las facturas resultantes hasta la fecha corresponden a ese gasto fijo más la geestión de los RSs, sumado a la lógica variación de producción de RSs. Caso de la producción de RCDs. 
+<!-->Caso notable es la gran cantidad de madera de palés, procedentes de la LAAT, cuando ni siquiera estaba en ppto
 
 Nº Orden	| Código	| Código | Pliego condiones | Uds.	| Descripción	| IMPORTE DE CONTRATO	| Medición | Presup.|	Precio
 ![image](https://github.com/user-attachments/assets/4c61dfc5-5326-4307-80e9-526291d3193f)[^3]
@@ -44,6 +45,30 @@ Nº Orden	| Código	| Código | Pliego condiones | Uds.	| Descripción	| IMPORTE
 Así, la producción y gestión de RSs a lo largo de 6 meses es la siguiente:
 
 
+| Descripción                          | Cantidad | Coste unit. directo excl. IVA | Importe Pedido |
+|:-------------------------------------|---------:|-------------------------------:|----------------:|
+| Alquiler cuba 10 cartón             |        6 |                        40,00 € |        240,00 € |
+| Alquiler cuba 10 RSI                |        6 |                        40,00 € |        240,00 € |
+| Alquiler cuba RCD                   |        6 |                        30,00 € |        180,00 € |
+| Transporte 3 cubas                  |        1 |                       400,00 € |        400,00 € |
+| Entrega Cuba 5m³ RCD                |        1 |                       140,00 € |        140,00 € |
+| Entrega Cuba 10m³ RSI               |        1 |                       140,00 € |        140,00 € |
+| Entrega Cuba 10m³ MADERA            |        1 |                       140,00 € |        140,00 € |
+| Escombro, gestión                   |   29.720 |                         0,022 € |        653,84 € |
+| Cambio Cuba 5m³ RCD                 |        4 |                       200,00 € |        800,00 € |
+| Alquiler cuba 10m³ RSI (E 10/12)    |        1 |                        27,10 € |         27,10 € |
+| Alquiler cuba 10m³ MADERA (E 10/12) |        1 |                        27,10 € |         27,10 € |
+| Alquiler cuba 5m³ RCD (E 10/12)     |        1 |                        20,32 € |         20,32 € |
+| Entrega Cuba 10m³ METALES_FERR      |        1 |                       140,00 € |        140,00 € |
+| RSI No Valorizable, gestión         |      860 |                         0,08 € |         68,80 € |
+| Cambio Cuba 10m³ RSI                |        1 |                       160,00 € |        160,00 € |
+| Alquiler Cuba 10m³ MET FÉRRICO      |        1 |                        40,00 € |         40,00 € |
+|:-------------------------------------|---------:|-------------------------------:|----------------:|
+|                                     |          |                    **Total** |     **3.417,16 €** |
+
+
+
+
 
 ----
 [^1]: Ppto. 30/10/24 mail 19/11 (CRÑ, RNP) y siguientes
@@ -52,7 +77,7 @@ Así, la producción y gestión de RSs a lo largo de 6 meses es la siguiente:
 
 
 ### 1.1 Análisis
-Con base en la tabla original
+Con base en la tabla original arriba adjunta
 * **Total facturado:** €3.417,16
 * Detalle aproximado:
   * **Residuos RCD:** €1.794,16
@@ -69,7 +94,7 @@ Con base en la tabla original
 ## PARTE 2: **Proyección para los próximos 6 meses**
 Se prevé un escenario de:
 1. actividad reducida a la mitad, debido a lo avanzado de la obra civil de la SE CRÑ, que es con mucho, el centro con mayor obra civil en Zgz.
-2. Se añade **un nuevo contenedor** de RCD para retirada de zona lavado cubas con:
+2. Se añade **un nuevo contenedor** de RCD para retirada de zona lavado cubas debido a las características de las zonas de lavado en la zona de Zgz, que consiste en una acumulación de tierra sobre la que se practica un hoyo a desnivel, una rampa de acceso y ese hoyo se forra con geotextil; que difieren de lo establecido en el PGA y PGR -un hoyo forrado por geotextil-  con lo cual, se incrementa la cantidad de RCDs producidos y se estima de forma grosera en unos 12 cambios de contenedor, sumando CRÑ y el resto de centros abiertos:
 
    * **1 entrega**
    * **12 cambios**
@@ -81,7 +106,7 @@ Se prevé un escenario de:
 ### A. Reducción de actividad existente (50%)
 
 | Categoría         | Coste 6 meses anteriores (€) | Ajustado al 50% (€) |
-| ----------------- | ---------------------------- | ------------------- |
+| ----------------- | ---------------------------: | ------------------: |
 | RCD (existente)   | €1.794,16                    | €897,08             |
 | Otros residuos    | €1.623,00                    | €811,50             |
 | **Subtotal base** | —                            | **€1.708,58**       |
@@ -91,7 +116,7 @@ Se prevé un escenario de:
 ### B. Nuevo contenedor RCD (12 ciclos)
 
 | Concepto                      | Unidad (€) | Cantidad | Subtotal (€)  |
-| ----------------------------- | ---------- | -------- | ------------- |
+| ----------------------------- | ---------: | -------: | ------------: |
 | Entrega única                 | €140,00    | 1        | €140,00       |
 | Cambios                       | €200,00    | 12       | €2.400,00     |
 | Gestión (7,43 t x 22€)        | €163,46    | 12       | €1.961,52     |
@@ -103,12 +128,40 @@ Se prevé un escenario de:
 ## PARTE 3: **Resumen final y comparativa**
 
 | Período          | Coste total (€) |
-| ---------------- | --------------- |
+| ---------------: | --------------: |
 | Últimos 6 meses  | €3.417,16       |
 | Próximos 6 meses | €6.390,10       |
 
 
 ## PARTE 4. Comparativa con el ppto.
+A la vista del gasto generado se contrasta con las mediciones previas en los centros en obras. Si en origen teníamos un ppto. total para CRÑ y centros abiertos de 80.908,74 €, el balance resultante de lo gastado y la previsión de gasto arriba descrito **presenta un saldo a nuestro favor de 71.101,48 €**:
+
+| Total CRÑ  	| dic-abr'25	| may-nov'25 |	BALANCE    |
+| ----------: | ---------: | --------:  | ---------: |
+| 80.908,74 €	| 3.417,16 €	| 6.390,10 €	| **71.101,48 €**|
+
+
+A futuro, la previsión es que la evacuación de RCDs procedente de lavado de cubas se clasifique como "hormigón límpio" se prevé clasificar LER 17 01 01 y supervisar la operación. El objetivo sería desbloquear los apartados "CLASIFICACION EN OBRA DE RDC MEZCLADOS" y el propio LER con su correspondiente ppto parcial.
+
+GESTION DE RESIDUOS Y MEDIOAMBIENTE
+~~CLASIFICACION EN OBRA DE RDC MEZCLADOS~~
+~~LER 17 01 01. GESTION DE RESIDUOS DE HORMIGON SIN MEZCLA~~
+LER 17 02 01. GESTION DE RESIDUOS DE MADERA
+LER 17 02 03. GESTION DE PLASTICO
+LER 17 03 04. GESTION DE RESIDUOS DE MEZCLAS BITUMINOSAS
+LER 17 04 04. GESTION DE RESIDUOS DE HIERRO Y ACERO
+LER 17 04 11. GESTION DE RESIDUOS DE CABLES DISTINTOS DE LOS ESPECIFICADOS EN EL CODIGO LER170410 (LER170411)
+LER 17 09 04. GESTION DE MEZCLA DE RESIDUOS NO PELIGROSOS
+LER 20 02 01. GESTION DE RESIDUOS DE MATERIAL BIODEGRADABLE
+LER 170504. TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL CODIGO 170503
+RESIDUOS PELIGROSOS
+
+
+
+
+
+
+
 
 ---
 # MNR/ANÁLISIS Y PROYECCIÓN DE COSTES DE RESIDUOS (6 MESES)
