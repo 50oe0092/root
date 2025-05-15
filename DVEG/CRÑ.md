@@ -1,9 +1,32 @@
 `CONFIDENCIAL · 28 de abril de 2025` 
 
-# Análisis de restauración de SSEE Zgz-Te y sobrantes
+# Análisis de restauración de SSEE Zgz-Te y sobrantes de Tierra Vegetal [TVEG]
+## X. Consideraciones legales de la gestión de las tierras vegetales 
+*4.3.1. Procedentes de excavaciones
+**Todo el volumen de las excavaciones, se considera residuo de tipo tierras y piedras diferentes a las
+especificadas en el código 170503 (LER 170504)**. La densidad media considerada es de 1,6 T/m3
+..
+Se ha considerado, dado que la práctica totalidad de los centros se ubican sobre terrenos de cultivo o matorral bajo, que la parte biodegradable será muy baja. Se empleará como proporción que el 85% de la tierra vegetal es tipo tierras y piedras diferentes a las especificadas en el código 170503 (LER 170504), y el 15%, material biodegradable (LER200201)*
+
+PROYECTO CONSTRUCTIVO PARA LA EJECUCIÓN DE LAS OBRAS DE LAS SUBESTACIONES ELÉCTRICAS DE TRACCIÓN DE CARIÑENA Y VILLAFRANCA, CENTROS DE AUTOTRANSFORMACIÓN Y LÍNEA AÉREA DE ALTA TENSIÓN PARA EL TRAMO ZARAGOZA – TERUEL DEL CORREDOR CANTÁBRICO – MEDITERRÁNEO.  Anejo Nº 18 [A18]. Gestión de Residuos
+página 7 [A18:7]
+
+*GR010 T LER 17 05 04 GESTIÓN DE TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL
+CÓDIGO 170503 Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [A18:34] Así, se establece las mismas condiciones que para el LER 170101 Hormigón sin mezcla. Así, en el apartado de Definición, en ese último apartado, se establece que:
+
+*El transporte y depósito final de residuos debe realizarse mediante transportista autorizado y en las
+instalaciones de un gestor debidamente autorizado para el residuo en cuestión:
+- Planta de compostaje o vertedero para los residuos de origen vegetal.
+- Vertedero o planta de reciclaje para residuos inertes y asimilables a urbanos.
+- Planta de reciclaje para residuos fácilmente valorizables, como papel, vidrio, metal, y plástico.
+- Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan contener sustancias peligrosas* [ibidem:23]
+
+Es decir, que las tierras de excavación, así como las tierras vegetales tienen la misma consideración que los hormigones limipios. Esto, aplicado a nuestro caso concreto, se ha resuelto de forma muy satisfactoria -y ventajosa para la UTE- con las Declaraciones Responsables [DR] de los Ayuntamientos y declarar Puntos de Entrega [DR] en las zonas más cercanas a las obras.
+
+
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 metros de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial con 162 m3, LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 metros de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
@@ -23,7 +46,8 @@ AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECU
  ATF 213.1   Caudé 	1.320,22	222,66	1813	-715,44
 -------------------------------------------------------------------------
 TOTAL	33.795,83	4235.544	1813	27.542,69
- 	 	 	 	 
+
+Fuente: 
  	 	 	 	 
 				
 VOLUMEN ACOPIADO	|     EJECUTADO (m3)	|  EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
@@ -85,7 +109,7 @@ El caso de Teruel es diferente debido a que ha habido espacio para su acopio, si
 
 
 ## 1.1 Cariñena [CRÑ] 211
-En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre un talud de 6823 m2 cuyo ancho medio (base horizontal) en la zona del ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real); 214,28 m3[^1][^4]
+En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre una base de talud de 6823 m2 cuyo ancho medio (base talud a vertical plataforma) en la zona frente a ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real); 214,28 m3[^1][^4]
 
 Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros en su punto más desfavorable. Según topografía, **el talud actual tiene 768.119 m2** (ver plano)
 
@@ -97,7 +121,7 @@ Mismas especificaciones que para CRÑ[^X] sobre el talud (2H:1V), se prevé en p
 `retranqueo permite ejecutar y recuperar % talud en proyecto`
 
 ## 1.3 Longares [LNG] 211.5
-En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
+En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un incremento de un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
 `Plano superpuesto a imagen GE`
 
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
@@ -111,11 +135,11 @@ Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibil
 
 ..se propone una opción de **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4.8 €/m2; 1344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3049.39 €
 
-Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV. 
+Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV que seguiría estando pendiente de ejecutar.. 
 
 
 ### 2.1.b CRÑ (Ejecutado) 
-Del punto 1.1 se concluye que, en realidad, la superficie es superior a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
+Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
