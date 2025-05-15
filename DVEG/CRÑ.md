@@ -47,7 +47,6 @@ AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECU
 -------------------------------------------------------------------------
 TOTAL	33.795,83	4235.544	1813	27.542,69
 
-Fuente: 
  	 	 	 	 
 				
 VOLUMEN ACOPIADO	|     EJECUTADO (m3)	|  EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
