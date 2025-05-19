@@ -26,7 +26,7 @@ Es decir, que las tierras de excavación, así como las tierras vegetales tienen
 
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCNC), Muel y Villahermosa (Vllh, Zgz) y Ferreruela, Calamocha, Monreal y Villafranca (Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, no consta en planos los 0.3 metros de espesor de revegetado ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
@@ -34,18 +34,18 @@ AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECU
  ATI 211.4   Muel 	1.413,22	108	0	1.305,22
  ATI 211.5   Longares 	1.611,02	219	0	1.392,02
  SE CARIÑENA  211	9.412,15	1337	0	8.075,15
- ATI 211.6   Encinacorba 	1.329,37	224,2	0	1.105,17
+ ATI 211.6   Encinacorb.1.329,37	224,2	0	1.105,17
  ATI 211.7   Mainar 	1.515,07	0	0	1.515,07
- ATI 211.8   Villahermosa 	1.098,33	206,8	0	891,53
- ATF 212.1   Ferreruela 	1.865,53	249,742	0	1.615,79
- ATI 212.2   Calamocha 	1.665,12	455	0	1210.12
+ ATI 211.8   Villaher. 	1.098,33	206,8	0	891,53
+ ATF 212.1   Ferrer. 	1.865,53	249,742	0	1.615,79
+ ATI 212.2   Calamocha 	1.665,12	455	0	 1210,12
  ATI 212.3   Monreal 	1.311,94	204,8	0	1.107,14
- SE VILLAFRANCA  212	5.787,39	1001,542	0	4.785,85
+ SE VILLAFRANCA  212	5.787,39	1001,54	0	4.785,85
  ATI 212.4   Alba 	1.400,31	200	0	1.200,31
- ATI 212.5   Villarquemado 	1.244,74	206,8	0	1.037,94
- ATF 213.1   Caudé 	1.320,22	222,66	1813	-715,44
+ ATI 212.5   Villarq.	1.244,74	206,8	0	1.037,94
+ ATF 213.1   Caudé 	1.320,22	222,66	1813	 -715,44
 -------------------------------------------------------------------------
-TOTAL	33.795,83	4235.544	1813	27.542,69
+TOTAL	33.795,83	4235,54		1813	27.542,69
 
  	 	 	 	 
 				
@@ -67,8 +67,8 @@ ATI 211.3   María 	0	0	0	0
  ATF 213.1   Caudé 	222,66	0	1813	0
 TOTAL	4235.544	0	0	1535,14
 Observaciones				 
-*Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 				 
- **En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
+*Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 			 
+**En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
 ***Traslado a zona autorizada por Ayto. Calamocha con albaranes aportado				 
  				 
  				 
@@ -106,13 +106,12 @@ El caso de Teruel es diferente debido a que ha habido espacio para su acopio, si
 (incluir tabla)
 
 
-
 ## 1.1 Cariñena [CRÑ] 211
-En origen, la plataforma tenía una extensión de 6278 m2 (91.45 m x 68.66 m) sobre una base de talud de 6823 m2 cuyo ancho medio (base talud a vertical plataforma) en la zona frente a ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638.88 m2 (proyectado) y 714.29 m2 (real); 214,28 m3[^1][^4]
+En origen, la plataforma tenía una extensión de 6.278 m2 (91.45 m x 68.66 m) sobre una base de talud de 6.823 m2 cuyo ancho medio (base talud a vertical plataforma) en la zona frente a ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638,88 m2 (proyectado) y 714,29 m2 (real); 214,28 m3[^1][^4]
 
-Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros en su punto más desfavorable. Según topografía, **el talud actual tiene 768.119 m2** (ver plano)
+Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2], dado que, una vez ejecutado presenta un ancho o base de talud, para un perfil medido por topografía de 2H:1.22V, de 3.98 metros (+0,5) en su punto más desfavorable. Según topografía, **el talud actual tiene 768,119 m2** (ver plano)
 
-Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230.4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. 
+Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230,4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. 
 
 
 ## 1.2 Encinacorba [NC] 211.6
@@ -120,7 +119,7 @@ Mismas especificaciones que para CRÑ[^X] sobre el talud (2H:1V), se prevé en p
 `retranqueo permite ejecutar y recuperar % talud en proyecto`
 
 ## 1.3 Longares [LNG] 211.5
-En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199.2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1.24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un incremento de un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
+En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199,2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1,24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un incremento de un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
 `Plano superpuesto a imagen GE`
 
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
@@ -132,13 +131,13 @@ Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibil
 
 	se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
 
-..se propone una opción de **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4.8 €/m2; 1344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3049.39 €
+..se propone una opción de **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m)  hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra extendida[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4,8 €/m2; 1.344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3.049,39 €
 
 Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV que seguiría estando pendiente de ejecutar.. 
 
 
 ### 2.1.b CRÑ (Ejecutado) 
-Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo calculado en proyecto: 768.11 m2 y por tanto, hay una variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
+Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo calculado en proyecto: 768.11 m2 y por tanto, hay una muy ligera variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
@@ -149,7 +148,7 @@ Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo c
 
 [^4]: *Revisar si este planteamiento es válido y si no,*
 
-*1º recalcularlo, teniendo en cuenta que la relación de los taludes es 1.5H:1V y que sólo nos interesan 2 de sus lados (91.45 m, 68.66 m) ya que los otros 2 no requieren casi aporte*
+*1º recalcularlo, teniendo en cuenta que la relación de los taludes es 1.5H:1V y que sólo nos interesan 2 de sus lados (91,45 m y 68,66 m) ya que los otros 2 no requieren casi aporte*
 
 *2º Recalcular para 2H:1.22V: 
 
@@ -159,7 +158,7 @@ Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo c
 
 [^6]: *Están contratadas con PARROS a 2,78€/m3 y con ETAYO a 2,01€/m3 Y que la partida "hidrosiembra en taludes" (sin riego) está contratada en zona ZARAGOZA, con PARROS a 3.50€/m2* whatsapp 22/4/25
 
-[^7]: *Hola Jesus,soy Carlos Lalueza. Te paso los precios orientativos para unos 5000 m2 Suministro e instalación de red de coco de 400 gr/m2 ———  4.80€/m2 
+[^7]: *Hola Jesus,soy Carlos Lalueza. Te paso los precios orientativos para unos 5000 m2 Suministro e instalación de red de coco de 400 gr/m2 ———  4,80€/m2 
 Hidrosiembra en 2 pasadas con todos los materiales incluidos : 1.04 €/m2* whatsapp 11/4/25
 
 
