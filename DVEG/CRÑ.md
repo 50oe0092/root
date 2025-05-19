@@ -50,22 +50,23 @@ TOTAL	33.795,83	4235,54		1813	27.542,69
  	 	 	 	 
 				
 VOLUMEN ACOPIADO	|     EJECUTADO (m3)	|  EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
- ATI 211.2  Cuarte	0	0	0	0
+ATI 211.2  Cuarte	0	0	0	0
 ATI 211.3   María 	0	0	0	0
- ATI 211.4   Muel 	108	0	0	0
- ATI 211.5   Longares*	219	0	0	553,14
- SE CARIÑENA  211	1337	0	0	162
- ATI 211.6   Encinacorba 	224,2	0	0	0
- ATI 211.7   Mainar 	0	0	0	0
- ATI 211.8   Villahermosa 	206,8	0	0	0
- ATF 212.1   Ferreruela 	249,742	0	0	1058.00
- ATI 212.2   Calamocha **	455***	0	0	27.3
- ATI 212.3   Monreal 	204,8	0	0	808.8
- SE VILLAFRANCA  212	1001,542	0	0	820
- ATI 212.4   Alba 	200	0	0	2299.69
- ATI 212.5   Villarquemado 	206,8	0	0	1005.38
- ATF 213.1   Caudé 	222,66	0	1813	0
-TOTAL	4235.544	0	0	1535,14
+ATI 211.4   Muel 	108	0	0	0
+ATI 211.5   Longares*	219	0	0	553,14
+SE CARIÑENA  211	1337	0	0	162
+ATI 211.6   Encinac.	224,2	0	0	0
+ATI 211.7   Mainar 	0	0	0	0
+ATI 211.8   Villahe. 	206,8	0	0	0
+ATF 212.1   Ferreruela 	249,742	0	0	1058
+ATI 212.2   Calamocha**	455***	0	0	27,3
+ATI 212.3   Monreal 	204,8	0	0	808,8
+SE VILLAFRANCA  212   1.001,54	0	0	820
+ATI 212.4   Alba 	200	0	0	2.299,69
+ATI 212.5   Villarq. 	206,8	0	0	1.005,38
+ATF 213.1   Caudé 	222,66	0	1.813	0
+_______________________________________________________
+TOTAL		      4.235,544	0	0	1.535,14
 Observaciones				 
 *Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 			 
 **En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
