@@ -14,19 +14,18 @@ página 7 [A18:7]
 *GR010 T LER 17 05 04 GESTIÓN DE TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL
 CÓDIGO 170503 Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [A18:34] Así, se establece las mismas condiciones que para el LER 170101 Hormigón sin mezcla. Así, en el apartado de Definición, en ese último apartado, se establece que:
 
-*El transporte y depósito final de residuos debe realizarse mediante transportista autorizado y en las
-instalaciones de un gestor debidamente autorizado para el residuo en cuestión:
+*El transporte y depósito final de residuos debe realizarse mediante transportista autorizado y en las instalaciones de un gestor debidamente autorizado para el residuo en cuestión:*
 - Planta de compostaje o vertedero para los residuos de origen vegetal.
 - Vertedero o planta de reciclaje para residuos inertes y asimilables a urbanos.
 - Planta de reciclaje para residuos fácilmente valorizables, como papel, vidrio, metal, y plástico.
-- Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan contener sustancias peligrosas* [ibidem:23]
+- Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan contener sustancias peligrosas [ibidem:23]
 
 Es decir, que las tierras de excavación, así como las tierras vegetales tienen la misma consideración que los hormigones limipios. Esto, aplicado a nuestro caso concreto, se ha resuelto de forma muy satisfactoria -y ventajosa para la UTE- con las Declaraciones Responsables [DR] de los Ayuntamientos y declarar Puntos de Entrega [DR] en las zonas más cercanas a las obras.
 
 
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies de acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies dedicadas a acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 AREAS DECAPADO | TOTAL ESTIMADO (m3) | EJECUTADO (m3) | NO APTO (m3) | POR EJECUTAR (m3)
  ATI 211.2  Cuarte	1.561,04	0	0	1.561,04
