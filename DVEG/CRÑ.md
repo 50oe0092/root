@@ -20,12 +20,12 @@ CÓDIGO 170503 Es de aplicación lo definido en el artículo GR002 en cuanto a D
 - Planta de reciclaje para residuos fácilmente valorizables, como papel, vidrio, metal, y plástico.
 - Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan contener sustancias peligrosas [ibidem:23]
 
-Es decir, que las tierras de excavación, así como las tierras vegetales tienen la misma consideración que los hormigones limipios. Esto, aplicado a nuestro caso concreto, se ha resuelto de forma muy satisfactoria -y ventajosa para la UTE- con las Declaraciones Responsables [DR] de los Ayuntamientos y declarar Puntos de Entrega [DR] en las zonas más cercanas a las obras.
+Es decir, que las tierras de excavación, así como las tierras vegetales tienen la misma consideración que los hormigones limipios. Esto, aplicado a nuestro caso concreto, se ha resuelto de forma muy satisfactoria -y ventajosa para la UTE- con las Declaraciones Responsables [DR] de los Ayuntamientos y declarar Puntos de Entrega [PE] en las zonas más cercanas a las obras.
 
 
 
 ## 1. Situación actual
-En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies dedicadas a acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
+En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies dedicadas a acopio de tierra vegetal, motivo por el cual en algunos centros se ha optado por retirarla a vertedero. En el caso de CRÑ se mantienen `162 m3` y Muel, con 108 m3[^1] calculados de forma muy aproximada. Por el contrario LNG, VLLH o NCN. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto y la certificación posterior, de cara al extendido de tierra vegetal e hidrosiembra.
 
 
 ## TABLA 1. DISPONIBILIDAD DE LA TIERRA VEGETAL/1 (Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL; DiAO)
@@ -107,30 +107,31 @@ Observaciones
 FUENTE: Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. a partir de datos Certificación UTE/ACO marzo'25	 
 
 
-El caso de Teruel es diferente debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
+El caso de Teruel es diferente al de Zgz debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
 (incluir tabla)
 
 
 ## 1.1 Cariñena [CRÑ] 211
-En origen, la plataforma tenía una extensión de 6.278 m2 (91.45 m x 68.66 m) sobre una base de talud de 6.823 m2 cuyo ancho medio (base talud a vertical plataforma) en la zona frente a ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638,88 m2 (proyectado) y 714,29 m2 (real); 214,28 m3[^1][^4]. `Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2]` 
+En proyecto, la plataforma tenía una extensión de 6.278 m2 (91.45 m x 68.66 m) sobre una base de talud de 6.823 m2 cuyo ancho medio (base talud a vertical plataforma) en la zona frente a ffcc era de 1.4 metros y un margen hasta el final de la zona expropiada, en el punto más desfavorable, de 4.56 m  (ver plano)  Esto suponía una superficie a extender con tierra vegetal (TV) de 638,88 m2 (proyectado) y 714,29 m2 (real); 214,28 m3[^1][^4]. `Planteamiento inicial a todas luces insuficiente si se quería una inclinación 2H:1V o 1.5H:1V, según qué anexo del proyecto se consulte[^1][^2]` 
 
-Una vez ejecutado presenta un ancho o base de talud -para un perfil medido por topografía- de 2H:1.22V, de 3.98 metros (+0,5) en su punto más desfavorable. Según topografía, sólo **el talud actual tiene 768,11 m2** (ver plano) **Cifra que, si bien difiere bastante de la que consta en certificación** (ver Tabla 3) se aproxima a la calculada en el Anexo 17 de Integración Ambiental[^1].
+Una vez ejecutado presenta un ancho o base de talud -para un perfil medido por topografía- de 2H:1.22V, de 3.98 metros (+0,5) en su punto más desfavorable. Según topografía, sólo **el talud actual tiene 768,11 m2** (ver plano) **Cifra que, si bien difiere bastante -por exceso- de la que consta en certificación** (ver Tabla 3) se aproxima a la calculada en el Anexo 17 de Integración Ambiental[^1].
 
-Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230,4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. Además, quedaría por revegetar la superficie de desmonte, unos 11 m3 más.
+Así, la base del talud del frente del ffcc arranca junto a la arqueta del mismo, todo ello a falta de **extender 0.3 m de tierra vegetal**[^3] (ver foto) no constando en los planos de proyecto ese perfil de tierra a añadir a los taludes de todos y cada uno de los ATIs y SSEE. Así, la previsión para esta SE *grosso modo* estaría **en torno a 230,4 m3 más un 20% por el efecto de deposición en la base para soportar el resto de extendido, unos 276 m3**. Además, quedaría por revegetar la superficie de desmonte, unos 11 m3 más; en total unos 287 m3, y por tanto con un deficit de -125 m3.
 
 
 ## 1.2 Encinacorba [NC] 211.6
-Mismas especificaciones que para CRÑ[^X] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. 
+Mismas especificaciones que para CRÑ[^X] sobre el talud (2H:1V), se prevé en proyecto 270.58 m2 alrededor de una cima de talud de las mismas medidas que el proyecto, pero con una base menor; una vez replanteado y ejecutado se calcula una superficie final de talud de 294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. Todos a importar de otro centro.
 `retranqueo permite ejecutar y recuperar % talud en proyecto`
 
 ## 1.3 Longares [LNG] 211.5
-En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199,2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1,24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un incremento de un 20%, se estaría contemplando **unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
+En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proyecto, el talud se ha proyectado sumando la superficie de talud ya planteada a la ejecutada por necesidades de replanteo. Así, de 366 m2 se ha pasado a 664 m2. Eso supone un aporte pendiente de extender de 199,2 m3 de TV. Sin embargo, las pendientes oscilan entre 2H:1,24V (frente ffcc) y 2H:1.34V (mismo frente), con lo cual, estaríamos ante la misma problemática de erosión y desplazamiento de suelo que se observa ya en CRÑ y por consiguiente, precisará de mayor aporte de TV. Cosiderado un incremento de un 20%, **se estaría contemplando la necesidad de importar unos 239 m3 de TV**. Lo que conllevaría la proyección de 0,3-0,5 metros sobre los terrenos del FFCC, además de los ya ocupados.
 `Plano superpuesto a imagen GE`
 
 ## 2. PROPUESTAS DE EXTENDIDO Y PROYECTADO DE TV 
 `Cálculo costes y alternativas`
-### 2.1.a CRÑ (Teórico)
-`Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3`; 287 m3, no contando con prácticamente nada de TV en la ubicación `[162 m3]`. Por tanto, habría que importarla del resto de centros. En el caso de CRÑ, se partiría de una superficie teórica de 751 m2 y un volumen teórico de  225.19 m3[^5] a un precio de subcontrata de 2.78 €/m3[^6], resulta un total de 626.03 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un **coste total de restauración** -sin riego ni reposición de marras (2a pasada)- **de 1414.19 €** 
+
+### 2.1.a CRÑ (Teórico)[REHACER]
+`Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3`; 287 m3, `no contando con prácticamente nada de TV en la ubicación [162 m3]`. Por tanto, habría que importarla del resto de centros donde tienen excedentes (Frr y Mnr, de momento). En el caso de CRÑ, en un principio se partía de una superficie teórica de 751 m2 y un volumen teórico de  225.19 m3[^5] a un precio de subcontrata de 2.78 €/m3[^6], resulta un total de 626.03 €. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un **coste total de restauración** -sin riego ni reposición de marras (2a pasada)- **de 1414.19 €** 
 
 Sin embargo, y centrados en el talud sobre canaleta de ADIF -y dada la imposibilidad de extenderse más allá de dicha canaleta-..
 
