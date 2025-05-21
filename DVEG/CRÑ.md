@@ -59,11 +59,11 @@ ATI 211.2  Cuarte	0	0	0	0
 ATI 211.3   María 	0	0	0	0
 ATI 211.4   Muel 	108	0	0	0
 ATI 211.5   Longares*	219	0	0	553,14
-SE CARIÑENA  211	1337	0	0	162
+SE CARIÑENA  211	1.337	0	0	162
 ATI 211.6   Encinac.	224,2	0	0	0
 ATI 211.7   Mainar 	0	0	0	0
 ATI 211.8   Villahe. 	206,8	0	0	0
-ATF 212.1   Ferreruela 	249,742	0	0	1058
+ATF 212.1   Ferreruela 	249,74	0	0	1.058
 ATI 212.2   Calamocha**	455***	0	0	27,3
 ATI 212.3   Monreal 	204,8	0	0	808,8
 SE VILLAFRANCA  212   1.001,54	0	0	820
@@ -71,7 +71,7 @@ ATI 212.4   Alba 	200	0	0	2.299,69
 ATI 212.5   Villarq. 	206,8	0	0	1.005,38
 ATF 213.1   Caudé 	222,66	0	1.813	0
 _______________________________________________________
-TOTAL		      4.235,544	0	0	1.535,14
+TOTAL		      4.235,54	0	0	1.535,14
 
 Observaciones
 ----
@@ -86,11 +86,11 @@ Observaciones
 | ATI 211.3 María             | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.4 Muel              | 108            | 0                           | 0                      | 0                                   |
 | ATI 211.5 Longares*         | 219            | 0                           | 0                      | 553,14                              |
-| SE CARIÑENA 211             | 1337           | 0                           | 0                      | 162                                 |
+| SE CARIÑENA 211             | 1.337           | 0                           | 0                      | 162                                 |
 | ATI 211.6 Encinac.          | 224,2          | 0                           | 0                      | 0                                   |
 | ATI 211.7 Mainar            | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.8 Villahe.          | 206,8          | 0                           | 0                      | 0                                   |
-| ATF 212.1 Ferreruela        | 249,742        | 0                           | 0                      | 1058                                |
+| ATF 212.1 Ferreruela        | 249,74        | 0                           | 0                      | 1058                                |
 | ATI 212.2 Calamocha**       | 455***         | 0                           | 0                      | 27,3                                |
 | ATI 212.3 Monreal           | 204,8          | 0                           | 0                      | 808,8                               |
 | SE VILLAFRANCA 212          | 1.001,54       | 0                           | 0                      | 820                                 |
@@ -118,11 +118,11 @@ Observaciones
 | ATF 212.1 FERRERUELA             | 784,96     | 0                | 784,96                        | 0,3                      | 235,49        |
 | ATI 212.2 CALAMOCHA              | 602,49     | 0                | 602,49                        | 0,3                      | 180,75        |
 | ATI 212.3 MONREAL DEL CAMPO      | 428,48     | 0                | 428,48                        | 0,3                      | 128,54        |
-| SE 212 VILLAFRANCA               | 1486,77    | 0                | 1486,77                       | 0,3                      | 446,03        |
+| SE 212 VILLAFRANCA               | 1.486,77    | 0                | 1486,77                       | 0,3                      | 446,03        |
 | ATI 212.4 ALBA DE CAMPO          | 489,65     | 0                | 489,65                        | 0,3                      | 146,90        |
 | ATI 212.5 VILLARQUEMADO          | 478,45     | 0                | 478,45                        | 0,3                      | 143,54        |
 | ATF 213.1 CAUDE                  | 284,50     | 0                | 284,50                        | 0,3                      | 85,35         |
-| **TOTAL**                        | **7671,97**| **0**            | **7956,47**                   |                          | **2386,94**   |
+| **TOTAL**                        | **7.671,97**| **0**            | **7.956,47**                   |                          | **2.386,94**   |
 				
 
 ----
