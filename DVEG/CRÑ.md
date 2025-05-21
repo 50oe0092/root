@@ -28,7 +28,8 @@ Es decir, que las tierras de excavación, así como las tierras vegetales tienen
 En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encinacorba (NCN), Muel y Villahermosa (Vllh, Zgz); y Ferreruela (Frr), Calamocha (Clm), Monreal (Mnr) y Villafranca (Vllf; Te). Todos ellos presentan sus correspondientes taludes según proyecto pero, en principio, **no consta en planos los 0.3 metros de espesor de revegetado** ni las superficies dedicadas a acopio de tierra vegetal, motivo por el cual, algunas ubicaciones carecen de ésta. Caso de CRÑ, que es testimonial, con 162 m3; LNG, VLLH o NCNC. Muel tiene un acopio *alegal* de aproximadamente 108 m3[^1]. Sin embargo, el replanteo y construcción posterior de las ubicaciones citadas en Zgz, presentan discrepancias con el planteamiento original del proyecto, de cara al posterior extendido de tierra vegetal e hidrosiembra.
 
 
-## TABLA 1. DISPONIBILIDAD DE LA TIERRA VEGETAL/1
+## TABLA 1. DISPONIBILIDAD DE LA TIERRA VEGETAL/1 (Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL; DiAO)
+
 
 | ÁREAS DECAPADO             | TOTAL ESTIMADO (m³) | EJECUTADO (m³) | NO APTO (m³) | POR EJECUTAR (m³) |
 |---------------------------|----------------------|----------------|--------------|-------------------|
@@ -52,33 +53,6 @@ En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encin
 
 
 ## TABLA 2. DISPONIBILIDAD DE LA TIERRA VEGETAL/2
- 	 	 	 	 
-				
-VOLUMEN ACOPIADO	|     EJECUTADO (m3)	|  EXTENDIDO EN DESTINO (m3)	| VOLUMEN NO APTO (m3)*	| V. ACOPIO Y APTO RESTAURACIÓN (m3)
-ATI 211.2  Cuarte	0	0	0	0
-ATI 211.3   María 	0	0	0	0
-ATI 211.4   Muel 	108	0	0	0
-ATI 211.5   Longares*	219	0	0	553,14
-SE CARIÑENA  211	1.337	0	0	162
-ATI 211.6   Encinac.	224,2	0	0	0
-ATI 211.7   Mainar 	0	0	0	0
-ATI 211.8   Villahe. 	206,8	0	0	0
-ATF 212.1   Ferreruela 	249,74	0	0	1.058
-ATI 212.2   Calamocha**	455***	0	0	27,3
-ATI 212.3   Monreal 	204,8	0	0	808,8
-SE VILLAFRANCA  212   1.001,54	0	0	820
-ATI 212.4   Alba 	200	0	0	2.299,69
-ATI 212.5   Villarq. 	206,8	0	0	1.005,38
-ATF 213.1   Caudé 	222,66	0	1.813	0
-_______________________________________________________
-TOTAL		      4.235,54	0	0	1.535,14
-
-Observaciones
-----
-*Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 		 
-**En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
-***Traslado a zona autorizada por Ayto. Calamocha con albaranes aportado				 
- ## TABLA 3. NECESIDADES DE TIERRA VEGETAL/1				 
 
 | UBICACIÓN                    | EJECUTADO (m³) | EXTENDIDO EN DESTINO (m³) | VOLUMEN NO APTO (m³)* | V. ACOPIO Y APTO RESTAURACIÓN (m³) |
 |-----------------------------|----------------|-----------------------------|------------------------|-------------------------------------|
@@ -97,11 +71,15 @@ Observaciones
 | ATI 212.4 Alba              | 200            | 0                           | 0                      | 2.299,69                            |
 | ATI 212.5 Villarq.          | 206,8          | 0                           | 0                      | 1.005,38                            |
 | ATF 213.1 Caudé             | 222,66         | 0                           | 1.813                  | 0                                   |
-| **TOTAL**                   | **4.235,544**  | **0**                       | **0**                  | **1.535,14**                        |
+| **TOTAL**                   | **4.235,54**  | **0**                       | **0**                  | **1.535,14**                        |
 
-
-      
-
+ 
+Observaciones
+----
+*Longares no se ha acopiado el total estimado porque no se ha ejecutado el camino 		 
+**En Calamocha no se ha acopiado el total estimado porque no se ha ejecutado el camino 
+***Traslado a zona autorizada por Ayto. Calamocha con albaranes aportado				 
+ ## TABLA 3. NECESIDADES DE TIERRA VEGETAL/1				 
 
 | ZONAS A RESTAURAR                | TOTAL (m²) | RESTAURADA (m²) | PENDIENTE RESTAURACIÓN (m²) | ESPESOR CONSIDERADO (m) | VOLUMEN (m³) |
 |----------------------------------|------------|------------------|-------------------------------|--------------------------|---------------|
@@ -122,11 +100,11 @@ Observaciones
 | ATI 212.4 ALBA DE CAMPO          | 489,65     | 0                | 489,65                        | 0,3                      | 146,90        |
 | ATI 212.5 VILLARQUEMADO          | 478,45     | 0                | 478,45                        | 0,3                      | 143,54        |
 | ATF 213.1 CAUDE                  | 284,50     | 0                | 284,50                        | 0,3                      | 85,35         |
-| **TOTAL**                        | **7.671,97**| **0**            | **7.956,47**                   |                          | **2.386,94**   |
+| **TOTAL**                        | **9.342,63**| **0**            | **9.342,63**                   |                          | **2.802,789**   |
 				
 
 ----
-FUENTE: Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. Certificación UTE/ACO marzo'25	 
+FUENTE: Diario Ambiental de Obra, marzo 2025 Ficha 2B PROTECCIÓN Y CONSERVACIÓN DE SUELOS Y VEGETACIÓN / BALANCE TIERRA VEGETAL p.13 y sig. a partir de datos Certificación UTE/ACO marzo'25	 
 
 
 El caso de Teruel es diferente debido a que ha habido espacio para su acopio, sin perjuicio de contaminaciones habidas y, a futuro.
