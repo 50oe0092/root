@@ -1,4 +1,4 @@
-`CONFIDENCIAL · 28 de abril de 2025` 
+![image](https://github.com/user-attachments/assets/de0a7713-c9a5-4c6f-b0b1-e8fac7c00ff3)`CONFIDENCIAL · 28 de abril de 2025` 
 
 # Análisis de restauración de SSEE Zgz-Te y sobrantes de Tierra Vegetal [TVEG]
 ## X. Consideraciones legales de la gestión de las tierras vegetales 
@@ -138,13 +138,21 @@ En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proy
 
 En el caso de CRÑ, en un principio se partía de una superficie teórica de 751 m² y un volumen teórico de 225,19 m³[^5] a un precio de subcontrata de 2,78 €/m³[^6], resultando un total de 625,03 € según presupuesto a ejecutar con subcontrata[^6]. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3,50 €/m²; 2.628,50 €. En resumen, un coste total de restauración —sin riego ni reposición de marras (2ª pasada)— de 3.253,53 €. Todo ello, previo al replanteo y situación actual.
 
-Del apartado 1.1. se concluye que, a diferencia del proyecto, se requiere importar 125 m³ de tierra vegetal y extender un volumen total —en una horquilla entre 241 y 287 m³— sobre una superficie algo menor, de 714,29 m²[^1], lo que supondrá un coste de 669,98 € a 797,86 €, en función del volumen finalmente requerido. A esto habría que añadir la hidrosiembra citada, cuyo coste actualizado asciende a 2.698,42 €. Es decir, que entre extendido y revegetado, sumarían un total de 3.358,40-3.486,28 € 
+Del apartado 1.1. se concluye que, a diferencia del proyecto, se requeriría importar 125 m³ de tierra vegetal y extender un volumen total —en una horquilla entre 241 y 287 m³— sobre una superficie algo menor, de 714,29 m²[^1], lo que supondría un coste de 669,98 € a 797,86 €, en función del volumen finalmente requerido. A esto habría que añadir la hidrosiembra citada, cuyo coste actualizado asciende a 2.698,42 €. Es decir, que entre extendido y revegetado, sumarían un total de 3.358,40-3.486,28 € 
 
-Sin embargo, y centrados en el talud al pie de la canaleta de ADIF —y dada la imposibilidad de extenderse más allá de dicha canaleta— se propone un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. 
+Centrados en el talud al pie de la canaleta de ADIF —y dada la imposibilidad de extenderse más allá de dicha canaleta— se propone un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. 
 
 `Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.`
 
-En este tramo se propone una actuación diferenciada en dicho frente, de 280 m², donde se plantea un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. Esto implica la instalación de geotextil de coco (280 m² × 4,80 €/m²), con un coste de 1.344,00 €, lo que, sumado al extendido analizado en el párrafo anterior, supondría un total de 4.830,28 €, es decir, un incremento aproximado del 29% respecto al coste inicialmente previsto.
+En este tramo se propone una actuación diferenciada en dicho frente, de 280 m², donde se plantea un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. Esto implica la instalación de geotextil de coco (280 m² × 4,80 €/m²), con un coste de 1.344,00 €, lo que, sumado al extendido analizado en el párrafo anterior, supondría un total de 4.830,28 €, es decir, un incremento aproximado del 29% respecto al coste inicialmente previsto. 
+
+Sin embargo, la superficie topografiada asciende a 768,12 m2 (230,4) m3, con lo cual, se incrementa el coste:
+
+- En revegetado 230,4 m3; 640,51 € y si sumamos un 20% 276,48 m3, 768,61 €
+- En hidrosiembra  2.688,39 €
+  
+Sumando entre las dos partidas 4.097,51 €. Si a eso se le suma el geotextil planteado, el total asciende a 5.441,51€, un 11% de incremento.
+
 
 Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV, que seguiría estando pendiente de ejecutar. 
 
@@ -153,6 +161,28 @@ Una tercera opción consistiría en retranquear el talud, pero se corre el riesg
 
 `### 2.1.b CRÑ (Ejecutado) `
 `Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo calculado en proyecto: 768.11 m2 y por tanto, hay una muy ligera variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.`
+
+## 2.2 Encinacorba [NC] 211.6
+Existiendo la misma problemática en relación con las cifras de proyecto, certificadas y topografiadas que CRÑ, la situación actual es la descrita y por tanto, un incremento de los costes:
+
+`294,45 m2; **88,33 m3,  más un margen de un 20% resulta un total 106 m3 de TV**. Todos a importar de otro centro.`
+
+## 2.3 Longares [LNG] 211.5
+Existiendo la misma problemática en relación con las cifras de proyecto, certificadas y topografiadas que CRÑ, la situación actual es la descrita y por tanto, un incremento de los costes:
+
+- Extendido de tierras (199,2 m3)	553,78 €
+- +20% (239,04 m3)			664,53 €
+
+- Hidrosiembra  		      2.324,00 €
+_________________________________________________
+**TOTAL 			      2.877,78 €**
+ 			  +20%	    **2.988,53 €** 
+
+
+
+
+
+
 
 ## REFERENCIAS
 [^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22, 714,29 m2 [AIA:22]
