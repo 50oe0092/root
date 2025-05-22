@@ -60,7 +60,7 @@ En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encin
 | ATI 211.3 María             | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.4 Muel              | 108            | 0                           | 0                      | 0                                   |
 | ATI 211.5 Longares*         | 219            | 0                           | 0                      | 553,14                              |
-| SE CARIÑENA 211             | 1.337           | 0                           | 0                      | 162                                 |
+| **SE CARIÑENA 211             | 1.337           | 0                           | 0                      | 162**                                 |
 | ATI 211.6 Encinac.          | 224,2          | 0                           | 0                      | 0                                   |
 | ATI 211.7 Mainar            | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.8 Villahe.          | 206,8          | 0                           | 0                      | 0                                   |
@@ -88,8 +88,8 @@ Observaciones
 | ATI 211.3 MARIA HUERVA (terraplén)| 460,64    | 0                | 460,64                        | 0,3                      | 138,19        |
 | ATI 211.4 MUEL (terraplén)       | 508,48     | 0                | 508,48                        | 0,3                      | 152,54        |
 | ATI 211.5 LONGARES (terraplén)   | 907,69     | 0                | 907,69                        | 0,3                      | 272,31        |
-| SE 211 CARIÑENA (terraplén)      | 714,29     | 0                | 714,29                        | 0,3                      | 214,29        |
-| SE 211 CARIÑENA (desmonte)       | 36,66      | 0                | 36,66                         | 0,3                      | 11,00         |
+| **SE 211 CARIÑENA (terraplén)      | 714,29     | 0                | 714,29                        | 0,3                      | 214,29**        |
+| **SE 211 CARIÑENA (desmonte)       | 36,66      | 0                | 36,66                         | 0,3                      | 11,00**         |
 | ATI 211.6 ENCINACORBA            | 270,58     | 0                | 270,58                        | 0,3                      | 81,17         |
 | ATI 211.7 MAINAR                 | 425,24     | 0                | 425,24                        | 0,3                      | 127,57        |
 | ATI 211.8 VILLAHERMOSA           | 538,23     | 0                | 538,23                        | 0,3                      | 161,47        |
