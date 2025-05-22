@@ -1,4 +1,4 @@
-`CONFIDENCIAL · 28 de abril de 2025` 
+![image](https://github.com/user-attachments/assets/46e951eb-0342-403d-a74e-e33bfdbdd8f5)`CONFIDENCIAL · 28 de abril de 2025` 
 
 # Análisis de restauración de SSEE Zgz-Te y sobrantes de Tierra Vegetal [TVEG]
 ## X. Consideraciones legales de la gestión de las tierras vegetales 
@@ -60,7 +60,7 @@ En la actualidad están en construcción Cariñena (CRÑ), Longares (LNG), Encin
 | ATI 211.3 María             | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.4 Muel              | 108            | 0                           | 0                      | 0                                   |
 | ATI 211.5 Longares*         | 219            | 0                           | 0                      | 553,14                              |
-| **SE CARIÑENA 211             | 1.337           | 0                           | 0                      | 162**                                 |
+| SE CARIÑENA 211             | 1.337           | 0                           | 0                      | 162                                 |
 | ATI 211.6 Encinac.          | 224,2          | 0                           | 0                      | 0                                   |
 | ATI 211.7 Mainar            | 0              | 0                           | 0                      | 0                                   |
 | ATI 211.8 Villahe.          | 206,8          | 0                           | 0                      | 0                                   |
@@ -88,8 +88,8 @@ Observaciones
 | ATI 211.3 MARIA HUERVA (terraplén)| 460,64    | 0                | 460,64                        | 0,3                      | 138,19        |
 | ATI 211.4 MUEL (terraplén)       | 508,48     | 0                | 508,48                        | 0,3                      | 152,54        |
 | ATI 211.5 LONGARES (terraplén)   | 907,69     | 0                | 907,69                        | 0,3                      | 272,31        |
-| **SE 211 CARIÑENA (terraplén)      | 714,29     | 0                | 714,29                        | 0,3                      | 214,29**        |
-| **SE 211 CARIÑENA (desmonte)       | 36,66      | 0                | 36,66                         | 0,3                      | 11,00**         |
+| SE 211 CARIÑENA (terraplén)      | 714,29     | 0                | 714,29                        | 0,3                      | 214,29       |
+| SE 211 CARIÑENA (desmonte)       | 36,66      | 0                | 36,66                         | 0,3                      | 11,00        |
 | ATI 211.6 ENCINACORBA            | 270,58     | 0                | 270,58                        | 0,3                      | 81,17         |
 | ATI 211.7 MAINAR                 | 425,24     | 0                | 425,24                        | 0,3                      | 127,57        |
 | ATI 211.8 VILLAHERMOSA           | 538,23     | 0                | 538,23                        | 0,3                      | 161,47        |
@@ -132,27 +132,31 @@ En este ATI, si bien la plataforma se ciñe a la ubicación y extensión de proy
 
 ### 2.1.a CRÑ (Teórico)[REHACER]
 `Del análisis anterior se concluye que, sobre proyecto, se precisarían entre 497 y 621 m3`; 
-Del apartado 1.1. se concluye que se requieren 125 m3 de tierra vegetal
 
 
-`287 m3, no contando con prácticamente nada de TV en la ubicación [162 m3]. Por tanto, habría que importarla del resto de centros donde tienen excedentes (Frr y Mnr, de momento; Clm estaría muy justa, a falta de cálculos más precisos). `
+`287 m3, no contando con prácticamente nada de TV en la ubicación [162 m3]. Por tanto, habría que importarla del resto de centros donde tienen excedentes (Frr y Mnr, de momento; Clm estaría muy justa, a falta de cálculos más precisos)`
 
-En el caso de CRÑ, en un principio se partía de una superficie teórica de 751 m2 y un volumen teórico de 225.19 m3[^5] a un precio de subcontrata de 2.78 €/m3[^6], resultando un total de 626.03 € según ppto. a ejecutar con subcontratas[^6]. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3.5€/m2; 788.1 €. En resumen, un **coste total de restauración** -sin riego ni reposición de marras (2a pasada)- **de 1414.19 €** Todo ello, previo al replanteo y situación actual.
+En el caso de CRÑ, en un principio se partía de una superficie teórica de 751 m² y un volumen teórico de 225,19 m³[^5] a un precio de subcontrata de 2,78 €/m³[^6], resultando un total de 625,03 € según presupuesto a ejecutar con subcontrata[^6]. A esto se añadiría una "hidrosiembra de taludes"[^6] con un precio unitario de 3,50 €/m²; 2.628,50 €. En resumen, un coste total de restauración —sin riego ni reposición de marras (2ª pasada)— de 3.253,53 €. Todo ello, previo al replanteo y situación actual.
 
-Sin embargo, y centrados en el talud al pie de la canaleta de ADIF -y dada la imposibilidad de extenderse más allá de dicha canaleta-..
+Del apartado 1.1. se concluye que, a diferencia del proyecto, se requiere importar 125 m³ de tierra vegetal y extender un volumen total —en una horquilla entre 241 y 287 m³— sobre una superficie algo menor, de 714,29 m²[^1], lo que supondrá un coste de 669,98 € a 797,86 €, en función del volumen finalmente requerido. A esto habría que añadir la hidrosiembra citada, cuyo coste actualizado asciende a 2.500 €. Es decir, que entre extendido y revegetado, sumarían un total de 3.170-3.297,88 €
 
-	se propone un ligero extendido de TV (0.15 m), hidrosiembra y la instalación de malla de geotextil de coco para retención de esa hidrosiembra extendida[^7]. Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.
 
-..se propone una opción de **actuación diferenciada** en dicho frente, de 280 m2, donde se plantea un ligero extendido de TV (0.15 m) hidrosiembra y la instalación de malla de *geotextil de coco* para retención de esa hidrosiembra[^7] Es decir, mitad de extendido, al que habría que agregar la hidrosiembra (280 m2, 1.04 €/m2; 291.2 €) y el geotextil (280 m2, 4,8 €/m2; 1.344 €) Así, **la actuación ascendería a un total de 1635 €, sobre la superficie teórica**, lo que sumado al extendido analizado en el párrafo anterior, supone un total de 3.049,39 €
+Sin embargo, y centrados en el talud al pie de la canaleta de ADIF —y dada la imposibilidad de extenderse más allá de dicha canaleta— se propone un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. 
 
-Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV, que seguiría estando pendiente de ejecutar.
+`Es decir, mitad de ppto. de extendido, al que habría que agregar la hidrosiembra (225.19 m2, 1.04 €/m2; 235 €) y el geotextil (225.19 m2, 4.8 €/m2; 1080.91 €) Así, **la propuesta ascendería a un total de 1629 €, sobre la superficie teórica**.`
+
+En este tramo se propone una actuación diferenciada en dicho frente, de 280 m², donde se plantea un ligero extendido de tierra vegetal (0,15 m), hidrosiembra y la instalación de malla de geotextil de coco para la retención de dicha hidrosiembra[^7]. Esto implica la instalación de geotextil de coco (280 m² × 4,80 €/m²), con un coste de 1.344,00 €, lo que, sumado al extendido analizado en el párrafo anterior, supondría un total de 4.641,88 €, es decir, un incremento aproximado del 29% respecto al coste inicialmente previsto.
+
+Otra opción consistiría en levantar un muro entre la base del talud y la canaleta del ffcc, pero eso supondría un incremento de varios miles de euros, además de la partida de extendido de TV, que seguiría estando pendiente de ejecutar. 
+
+Una tercera opción consistiría en retranquear el talud, pero se corre el riesgo de daños a la valla y descalzado de la zapata.
 
 
 ### 2.1.b CRÑ (Ejecutado) 
 Del punto 1.1 se concluye que, en realidad, la superficie es muy parecida a lo calculado en proyecto: 768.11 m2 y por tanto, hay una muy ligera variación del coste: 1446.91 €, un 1%. Coste al que hay que añadir el geotextil.
 
 ## REFERENCIAS
-[^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22 [AIA:22]
+[^1]: 5.11.2.3. Aporte de tierra vegetal ANEJO Nº 17. INTEGRACIÓN AMBIENTAL p.22, 714,29 m2 [AIA:22]
 
 [^2]: (PROYECTO CONSTRUCTIVO PARA LA EJECUCIÓN DE LAS OBRAS DE LAS SUBESTACIONES ELÉCTRICAS DE TRACCIÓN DE CARIÑENA Y VILLAFRANCA, CENTROS DE AUTOTRANSFORMACIÓN Y LÍNEA AÉREA DE ALTA TENSIÓN PARA EL TRAMO ZARAGOZA – TERUEL DEL CORREDOR CANTÁBRICO – MEDITERRÁNEO Memoria) [https://telice.sharepoint.com/:f:/s/SSEE/EttwhZNa6bpGgLlVMXmGHMgBwQfM-repsELK0Dl4tZ_Mbw?e=ZXpQag] p.17
 
