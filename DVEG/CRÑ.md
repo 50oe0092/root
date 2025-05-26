@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de0a7713-c9a5-4c6f-b0b1-e8fac7c00ff3)`CONFIDENCIAL · 28 de abril de 2025` 
+`CONFIDENCIAL · 28 de abril de 2025` 
 
 # Análisis de restauración de SSEE Zgz-Te y sobrantes de Tierra Vegetal [TVEG]
 ## X. Consideraciones legales de la gestión de las tierras vegetales 
