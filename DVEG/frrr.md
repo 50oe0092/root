@@ -1,4 +1,5 @@
-<!-->I have a stockpiling of topsoil. the base is a figure of triangle with 11,22 and 14 meters each and the top is 3 meters. Calculate the volume in m3
+<!-->[Frr] I have a stockpiling of topsoil. the base is a figure of polygon with 11, 22, 3 and 14 meters each and the top is 3 meters, builded with mounds of topsoil and each one with a base of 4x5x3 meters . Calculate the volume in m3
+<!-->[Frr] I have a rectangle (32x4 meters) formed with a stockpiling of topsoil. Each one with 3x4x1,5 meters. Calculate total volume.
 <!-->Nop it's wrong. We have a slopes from the base to the top about 45º. Recalculate with this dates
 
 
