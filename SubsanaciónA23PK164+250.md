@@ -1,4 +1,4 @@
->>>>>>>>>>A/A Sr. Jefe de la Unidad Técnica de Carreteras de Teruel, de la Demarcación de Carreteras del Estado en Aragón Avenida Sagunto 1 44002 Teruel
+A/A Sr. Jefe de la Unidad Técnica de Carreteras de Teruel, de la Demarcación de Carreteras del Estado en Aragón Avenida Sagunto 1 44002 Teruel
 
 ## ASUNTO Subsanación y mejora de lainformación solicitada mediante Oficio de 24/06/2024 (Ref: TER-AUT-25-156) sobre cruce de LAAT sobre A-23 PK 164+250 en el TM de Monreal del Campo
 
@@ -27,7 +27,7 @@ En virtud de lo expuesto,
 Al Sr. Jefe de Demarcación de Carreteras del Estado en Aragón que tenga por presentada esta Subsanación y mejora de Solicitud de Inicio de Procedimiento
 
 
->>>>>>>>>>>>>>>>>Madrid, 1/9/2025
+Madrid, 1/9/2025
 
 
 
