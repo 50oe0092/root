@@ -1,3 +1,6 @@
+[10_LEGALx093_RESIDUOS][tsan][tveg]HT091222072025[ANALIZA4]
+`C:\Users\jesus\Downloads\UTE SSEE ZARAGOZA TERUEL\[10_LEGALx093_RESIDUOS][tsan][tveg]HT091222072025[ANALIZA4]`
+
 [Analyze from legal point (Spanish legislation about waste) this doc: Con respecto a la documentación que nos mandas nos surgen varias dudas de su validez, que entiendo te tienen que resolver la contrata. A continuación te pongo a que se deben nuestras dudas: No está la comunicación previa que debe hacer el valorizador Las declaraciones de productor y entidad valorizadora están juntas, cuando suelen ir por separado ¿por qué? Si el valorizador es un gestor ¿por qué no se ha hecho la gestión como un residuos (DI+Certificado)? Se debe confirmar que la cantidad del certificado 2 es correcta Por ningún lado se indica la cantera a la que se llevan las tierras, sería bueno tener ese dato, para poder verificar que tiene plan de restauración aprobado.](https://copilot.microsoft.com/shares/4sYDVzcX76K4f4GSPBKwP)
 
 Desde el punto de vista jurídico, y conforme a la legislación española sobre residuos —especialmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular— las observaciones que planteas revelan varias posibles deficiencias en el cumplimiento normativo. Vamos punto por punto:
@@ -9,7 +12,7 @@ Desde el punto de vista jurídico, y conforme a la legislación española sobre 
 Según el artículo 18 de la Ley 7/2022, cualquier operación de valorización debe ser comunicada previamente a la administración competente. Esto incluye tanto la actividad como la instalación.
 
 **Implicación legal:**  
-La ausencia de esta comunicación puede invalidar la trazabilidad del residuo y comprometer la legalidad de la operación. El valorizador debe estar inscrito como gestor autorizado y comunicar cada operación.
+La ausencia de esta comunicación puede invalidar la trazabilidad del residuo y comprometer la legalidad de la operación. El valorizador debe estar inscrito como gestor autorizado y comunicar cada operación. 
 
 ---
 
