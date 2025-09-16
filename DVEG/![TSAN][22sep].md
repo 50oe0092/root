@@ -113,3 +113,6 @@ Las preocupaciones planteadas están **legalmente justificadas** bajo la legisla
 
 La solicitud de la parte comentarista de aclaración por parte de la contrata es apropiada, ya que estas deficiencias podrían resultar en incumplimiento regulatorio.
 
+
+----
+[Plataforma Documental de Residuos ](https://aplicaciones2.aragon.es/pdr/pdr_pub/residuos/informacionAmbiental/busquedaNimas)
