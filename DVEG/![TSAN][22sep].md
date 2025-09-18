@@ -1,13 +1,16 @@
 # INTRO Y CRONO
-
 [10_LEGALx093_RESIDUOS][tsan][tveg] exHT091222072025[ANALIZA4]
 `C:\Users\jesus\Downloads\UTE SSEE ZARAGOZA TERUEL\[10_LEGALx093_RESIDUOS][tsan][tveg]HT091222072025[ANALIZA4]`
+
+## Antecedentes
+
 
 [Analyze from legal point (Spanish legislation about waste) this doc: Con respecto a la documentación que nos mandas nos surgen varias dudas de su validez, que entiendo te tienen que resolver la contrata. A continuación te pongo a que se deben nuestras dudas: No está la comunicación previa que debe hacer el valorizador Las declaraciones de productor y entidad valorizadora están juntas, cuando suelen ir por separado ¿por qué? Si el valorizador es un gestor ¿por qué no se ha hecho la gestión como un residuos (DI+Certificado)? Se debe confirmar que la cantidad del certificado 2 es correcta Por ningún lado se indica la cantera a la que se llevan las tierras, sería bueno tener ese dato, para poder verificar que tiene plan de restauración aprobado.](https://copilot.microsoft.com/shares/4sYDVzcX76K4f4GSPBKwP)
 
 Desde el punto de vista jurídico, y conforme a la legislación española sobre residuos —especialmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular— las observaciones que planteas revelan varias posibles deficiencias en el cumplimiento normativo. Vamos punto por punto:
 
 ---
+
 # [TSAN] ANÁLISIS LEGAL
 ## 1. Falta de comunicación previa del valorizador
 **Marco legal:**  
@@ -121,26 +124,37 @@ La solicitud de la parte comentarista de aclaración por parte de la contrata es
 [Plataforma Documental de Residuos ](https://aplicaciones2.aragon.es/pdr/pdr_pub/residuos/informacionAmbiental/busquedaNimas)
 
 # [TSAN] Gestión 
-*8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución*
+*8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [17 01 01 Hromigón limpio]
 
 *8.3.10.1. Medición y abono*
-*T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. **El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
+*T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. ***El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
 La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR010 que figura en el Cuadro de Precios nº 1 [A17:494]
 
-La interpretación de este apartado puede inducir a confusión. A diferencia de la gestión de otros residuos [RSs][^1]
+La interpretación de este apartado puede inducir a confusión. A diferencia de la gestión de otros residuos [RSs][^1] éste consta -desde mi punto de vista- de 2 certificaciones: una por el transporte -elemento que no aparece en el resto de residuos- y otra muy diferente la entrega para su gestión a gestor autorizado.
 
 ----
 [^1]: 8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.
 Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.
-8.3.9.1. Medición y abono T de LER 20 02 01. **Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción**. La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem [NA]: Señalar que **SÓLO se incluye transporte DESDE el punto de producción** No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan `pte. pasar limpio notas`
+*8.3.9.1. Medición y abono T de LER 20 02 01. Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción*.
+***La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem 
+
+[Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción** No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan 
+<br><br>
+`pte. pasar limpio notas`
 ---
 # Anexo 1. Balizado (Delimitación) 
 *El jalonamiento se efectuará mediante colocación de jalones metálicos cada 8 m y de malla de cerramiento de plástico de color vivo entre ellos. El jalonamiento provisional será claramente visible, consistente y de difícil desplazamiento*
 ...
 ***El jalonamiento será retirado una vez situado el cerramiento definitivo de la zona*** [A17:143]
 
-*Jalonamiento zonas auxiliares y caminos de acceso* [A17:161] 641 [PVA]
+*Jalonamiento zonas auxiliares y caminos de acceso* [A17:161] 641. [PVA]
 
 *El precio incluye suninistro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
+
+Este último párrafo puede inducir a confusión debido a que se incluye su mantenimiento, es decir, reposición
 ---
 
+# Tierras Vegetales [TV], [Análisis jurídico][AJ]
+Las tierras vegetales, desde un punto de vista legal, se consideran residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` 
+
+Dada la dificultad de contejar albaranes con certificaciones, las cifras de TV como de TSAN se obtienen diréctamente de ACO y se adjuntan al DiAO 
