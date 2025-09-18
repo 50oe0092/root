@@ -1,3 +1,5 @@
+# INTRO Y CRONO
+
 [10_LEGALx093_RESIDUOS][tsan][tveg] exHT091222072025[ANALIZA4]
 `C:\Users\jesus\Downloads\UTE SSEE ZARAGOZA TERUEL\[10_LEGALx093_RESIDUOS][tsan][tveg]HT091222072025[ANALIZA4]`
 
@@ -130,7 +132,15 @@ La interpretación de este apartado puede inducir a confusión. A diferencia de 
 ----
 [^1]: 8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.
 Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.
-8.3.9.1. Medición y abono T de LER 20 02 01. **Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción**. La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem [NA]: Señalar que **SÓLO se incluye transporte DESDE el punto de producción** No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZAR] de cada una de las ubicaciones y el Punto Limpio [PL] al que correspondan `pte. pasar limpio notas`
+8.3.9.1. Medición y abono T de LER 20 02 01. **Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción**. La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem [NA]: Señalar que **SÓLO se incluye transporte DESDE el punto de producción** No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan `pte. pasar limpio notas`
+---
+# Anexo 1. Balizado (Delimitación) 
+*El jalonamiento se efectuará mediante colocación de jalones metálicos cada 8 m y de malla de cerramiento de plástico de color vivo entre ellos. El jalonamiento provisional será claramente visible, consistente y de difícil desplazamiento*
+...
+***El jalonamiento será retirado una vez situado el cerramiento definitivo de la zona*** [A17:143]
 
+*Jalonamiento zonas auxiliares y caminos de acceso* [A17:161] 641 [PVA]
 
+*El precio incluye suninistro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
+---
 
