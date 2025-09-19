@@ -5,7 +5,7 @@
 ## Antecedentes
 
 
-[Analyze from legal point (Spanish legislation about waste) this doc: Con respecto a la documentación que nos mandas nos surgen varias dudas de su validez, que entiendo te tienen que resolver la contrata. A continuación te pongo a que se deben nuestras dudas: No está la comunicación previa que debe hacer el valorizador Las declaraciones de productor y entidad valorizadora están juntas, cuando suelen ir por separado ¿por qué? Si el valorizador es un gestor ¿por qué no se ha hecho la gestión como un residuos (DI+Certificado)? Se debe confirmar que la cantidad del certificado 2 es correcta Por ningún lado se indica la cantera a la que se llevan las tierras, sería bueno tener ese dato, para poder verificar que tiene plan de restauración aprobado.](https://copilot.microsoft.com/shares/4sYDVzcX76K4f4GSPBKwP)
+[Analyze from legal point (Spanish legislation about waste) this doc: *"Con respecto a la documentación que nos mandas nos surgen varias dudas de su validez, que entiendo te tienen que resolver la contrata. A continuación te pongo a que se deben nuestras dudas: No está la comunicación previa que debe hacer el valorizador*[sic] *Las declaraciones de productor y entidad valorizadora están juntas, cuando suelen ir por separado ¿por qué? Si el valorizador es un gestor ¿por qué no se ha hecho la gestión como un residuos (DI+Certificado)? Se debe confirmar que la cantidad del certificado 2 es correcta Por ningún lado se indica la cantera a la que se llevan las tierras, sería bueno tener ese dato, para poder verificar que tiene plan de restauración aprobado"*](https://copilot.microsoft.com/shares/4sYDVzcX76K4f4GSPBKwP)
 
 Desde el punto de vista jurídico, y conforme a la legislación española sobre residuos —especialmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular— las observaciones que planteas revelan varias posibles deficiencias en el cumplimiento normativo. Vamos punto por punto:
 
@@ -73,7 +73,7 @@ Si las tierras se depositan en una cantera sin plan de restauración, podría co
 
 ### 1. **Falta de Comunicación Previa del Valorizador**
 **Validez de la preocupación: CONFIRMADA**
-- La legislación española de residuos requiere típicamente comunicación previa a las autoridades antes de iniciar actividades de valorización
+- La legislación española de residuos requiere típicamente comunicación previa a las autoridades antes de iniciar actividades de valorización. Falso, la comunciación previa es general, al inicio de la actividad de gestor, no particular y referida a la producción de RSs por parte de la UTE.
 - El documento no muestra evidencia de esta comunicación previa
 - Este es un requisito procedimental bajo el marco normativo de residuos
 
@@ -123,8 +123,8 @@ La solicitud de la parte comentarista de aclaración por parte de la contrata es
 ----
 [Plataforma Documental de Residuos ](https://aplicaciones2.aragon.es/pdr/pdr_pub/residuos/informacionAmbiental/busquedaNimas)
 
-# [TSAN] Gestión 
-*8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [17 01 01 Hromigón limpio]
+# [TSAN] Análisis Jurídico [AJ]
+*8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [17 01 01 Hormigón limpio]
 
 *8.3.10.1. Medición y abono*
 *T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. ***El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
@@ -149,12 +149,15 @@ Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exi
 
 *Jalonamiento zonas auxiliares y caminos de acceso* [A17:161] 641. [PVA]
 
-*El precio incluye suninistro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
+*El precio incluye suministro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
 
 Este último párrafo puede inducir a confusión debido a que se incluye su mantenimiento, es decir, reposición
 ---
 
-# Tierras Vegetales [TV], [Análisis jurídico][AJ]
-Las tierras vegetales, desde un punto de vista legal, se consideran residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` 
+# ...[AJ]
+Las tierras vegetales [TVs], desde un punto de vista legal, se considerantambién residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplica la Ley 7/22 que derogó la Ley 22/11, que a su vez, no presenta procedimientos distintos de la citada Orden.
 
-Dada la dificultad de contejar albaranes con certificaciones, las cifras de TV como de TSAN se obtienen diréctamente de ACO y se adjuntan al DiAO 
+# Crono TVs y TSAN
+Dada la dificultad de contejar albaranes con certificaciones, las cifras de TSAN se obtienen diréctamente de ACO por certificación mediante aporte de los albaranes correspondientes y se adjuntan al DiAO [ver mail 12/3/25] Apareciendo en el DiAO desde esta fecha, a la espera de actualización, desde la certificación de febrero de 2025.
+
+En cuanto a las `TVs` aparte de las que se han clasificado como TSAN, se han acopiado en las ubicaciones o inmediaciones de éstas y las cifras adjuntadas en el DiAO son orientativas, con las variaciones que posteriormente se han producido por exigencias de la obra. Está pendiente de hacer una nueva evaluación de las cantidades existentes, sin perjuicio de su aptitud o comportamiento como TV. 
