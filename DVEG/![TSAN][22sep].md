@@ -161,3 +161,5 @@ Las tierras vegetales [TVs], desde un punto de vista legal, se considerantambié
 Dada la dificultad de contejar albaranes con certificaciones, las cifras de TSAN se obtienen diréctamente de ACO por certificación mediante aporte de los albaranes correspondientes y se adjuntan al DiAO [ver mail 12/3/25] Apareciendo en el DiAO desde esta fecha, a la espera de actualización, desde la certificación de febrero de 2025.
 
 En cuanto a las `TVs` aparte de las que se han clasificado como TSAN, se han acopiado en las ubicaciones o inmediaciones de éstas y las cifras adjuntadas en el DiAO son orientativas, con las variaciones que posteriormente se han producido por exigencias de la obra. Está pendiente de hacer una nueva evaluación de las cantidades existentes, sin perjuicio de su aptitud o comportamiento como TV. 
+
+El procedimiento establecido para la trazabilidad está descrito en el A17:489 reproducido por DAO en mail del 3 de junio -y que difiere de la APM citada y del procedimiento establecido para con los ayuntamientos `{citarequerida}`. En respuesta a este y resto de mails, se han presentado sucesivas propuestas, la última de las cuales está pendiente de resolver.
