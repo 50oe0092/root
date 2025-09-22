@@ -169,4 +169,6 @@ Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exi
 
 [Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción. No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan, que a su vez, tampoco tienen capítulo presupuestario alguno.
 <br><br>
+
+----
 `pte. pasar limpio notas`
