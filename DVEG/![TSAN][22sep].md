@@ -11,7 +11,7 @@ Desde el punto de vista jurídico, y conforme a la legislación española sobre 
 
 ---
 
-# [TSAN] ANÁLISIS LEGAL
+# [TSAN] ANÁLISIS IA
 ## 1. Falta de comunicación previa del valorizador
 **Marco legal:**  
 ~~Según el artículo 18 de la Ley 7/2022, cualquier operación de valorización debe ser comunicada previamente a la administración competente. Esto incluye tanto la actividad como la instalación.~~ 
@@ -126,40 +126,47 @@ La solicitud de la parte comentarista de aclaración por parte de la contrata es
 # [TSAN] Análisis Jurídico [AJ]
 *8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [17 01 01 Hormigón limpio]
 
-*8.3.10.1. Medición y abono*
-*T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. ***El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
-La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR010 que figura en el Cuadro de Precios nº 1 [A17:494]
+>*8.3.10.1. Medición y abono*
+>*T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. ***El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
+*La medición se realizará por T realmente ejecutada, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR010 que figura en el Cuadro de Precios nº 1* [A17:494]
 
-La interpretación de este apartado puede inducir a confusión. A diferencia de la gestión de otros residuos [RSs][^1] éste consta -desde mi punto de vista- de 2 certificaciones: una por el transporte -elemento que no aparece en el resto de residuos- y otra muy diferente la entrega para su gestión a gestor autorizado.
+La interpretación de este apartado puede inducir a confusión. A diferencia de la gestión de otros residuos [RSs][^1] éste consta -desde mi punto de vista- de 2 certificaciones: una por el transporte -elemento que no aparece en el resto de residuos- y otra muy diferente, la entrega para su gestión a gestor autorizado.
+
 
 ----
-[^1]: 8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.
-Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.
-*8.3.9.1. Medición y abono T de LER 20 02 01. Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción*.
-***La medición se realizará por T realmente ejecutados, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem 
 
-[Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción** No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan 
-<br><br>
-`pte. pasar limpio notas`
----
 # Anexo 1. Balizado (Delimitación) 
 *El jalonamiento se efectuará mediante colocación de jalones metálicos cada 8 m y de malla de cerramiento de plástico de color vivo entre ellos. El jalonamiento provisional será claramente visible, consistente y de difícil desplazamiento*
 ...
+
 ***El jalonamiento será retirado una vez situado el cerramiento definitivo de la zona*** [A17:143]
 
 *Jalonamiento zonas auxiliares y caminos de acceso* [A17:161] 641. [PVA]
 
 *El precio incluye suministro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
 
-Este último párrafo puede inducir a confusión debido a que se incluye su mantenimiento, es decir, reposición
----
+Este último párrafo puede inducir a confusión si hay falta de contexto, debido a que se incluye su mantenimiento, que pudiera entenderse por reparación, pero no queda claro que también sea reposición. Hay que tener en cuenta que la previsión del proyecto era de 3 meses por cada centro[^2]
+----
 
 # ...[AJ]
-Las tierras vegetales [TVs], desde un punto de vista legal, se considerantambién residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplica la Ley 7/22 que derogó la Ley 22/11, que a su vez, no presenta procedimientos distintos de la citada Orden.
+Las tierras vegetales [TVs], desde un punto de vista legal, se consideran también residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplicaría la Ley 7/22 -que derogó la Ley 22/11- que a su vez, no presenta procedimientos distintos de la citada Orden. Sin embargo, debido a esa consideración de residuo esto genera inseguridad jurídica. 
 
 # Crono TVs y TSAN
 Dada la dificultad de contejar albaranes con certificaciones, las cifras de TSAN se obtienen diréctamente de ACO por certificación mediante aporte de los albaranes correspondientes y se adjuntan al DiAO [ver mail 12/3/25] Apareciendo en el DiAO desde esta fecha, a la espera de actualización, desde la certificación de febrero de 2025.
 
 En cuanto a las `TVs` aparte de las que se han clasificado como TSAN, se han acopiado en las ubicaciones o inmediaciones de éstas y las cifras adjuntadas en el DiAO son orientativas, con las variaciones que posteriormente se han producido por exigencias de la obra. Está pendiente de hacer una nueva evaluación de las cantidades existentes, sin perjuicio de su aptitud o comportamiento como TV. 
 
-El procedimiento establecido para la trazabilidad está descrito en el A17:489 reproducido por DAO en mail del 3 de junio -y que difiere de la APM citada y del procedimiento establecido para con los ayuntamientos `{citarequerida}`. En respuesta a este y resto de mails, se han presentado sucesivas propuestas, la última de las cuales está pendiente de resolver.
+El procedimiento establecido para la trazabilidad está descrito en el A17:489 reproducido por DAO en mail del 3 de junio -y que para los ayuntamientos `{citarequerida}`- difiere de la APM citada y del procedimiento establecido. En respuesta a este y resto de mails, se han presentado sucesivas propuestas, la última de las cuales está pendiente de resolver.
+
+
+----
+[^1]: 8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.
+Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.
+*8.3.9.1. Medición y abono T de LER 20 02 01. Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción*.
+***La medición se realizará por T realmente ejecutada, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem 
+
+[^2]:*El acopio se realizará en montones de altura inferior a 1,5 m, o en un caballón continuo con la misma altura máxima. Puesto que cada Centro estará finalizado en menos de tres meses, no es previsible que el acopio de tierra vegetal se prolongue más de seis meses* [A17:143]
+
+[Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción. No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan, que a su vez, tampoco tienen capítulo presupuestario alguno.
+<br><br>
+`pte. pasar limpio notas`
