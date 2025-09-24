@@ -123,9 +123,15 @@ La solicitud de la parte comentarista de aclaración por parte de la contrata es
 ----
 [Plataforma Documental de Residuos ](https://aplicaciones2.aragon.es/pdr/pdr_pub/residuos/informacionAmbiental/busquedaNimas)
 ----
+# RESUMEN
+
+Hasta junio de 2025 el procedimiento seguido ha consistido en recopilar certificados de canteras con las Tierras de Saneo [TSAN] admitidas y el acopio de las Tierras Vegetales [TV] en donde se ha podido. Siguiendo las instrucciones de DAO.
+
+A partir de esa fecha, se solicita a la UTE la presentación de un certificado legal establecido en la Orden APM 1007/2017 -y que no se recoge en el PGA- del cual se llevan presentadas varias versiones hasta la última, pendiente de OK o modificación desde hace 2 semanas, toda vez que las relaciones de las subcontratas con los proveedores han variado o bien, se han extinguido [Lorin]; con lo cual, no tener un modelo definitivo para negociar en nombre de terceros, genera un desgaste que puede devenir en negativa y un problema de trazabilidad. Por tanto, en estos momentos, ante la inseguridad jurídica vigente, este procedimiento -y el relacionado como abajo se verá con los ayuntamientos- está en stand-by.
 
 
-# 1 INTRO Análisis Jurídico [AJ]
+
+# 1 [TVs] Análisis Jurídico [AJ]
 Las tierras vegetales [TVs], desde un punto de vista legal, se consideran también residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplicaría la Ley 7/22 -que derogó la Ley 22/11- que a su vez, no presenta procedimientos distintos de la citada Orden. Sin embargo, debido a esa consideración de residuo, esto genera inseguridad jurídica. 
 
 # 2. [TSAN] Análisis Jurídico [AJ]
@@ -142,9 +148,9 @@ Dada la dificultad observada de contejar albaranes con certificaciones, las cifr
 
 En cuanto a las `TVs`, aparte de las que se han clasificado como TSAN, se han acopiado en las ubicaciones o inmediaciones de éstas -cuando no ha sido posible en el sitio- y las cifras adjuntadas en el DiAO son orientativas, con las variaciones que posteriormente se han producido por exigencias de la obra. 
 
-Está pendiente de hacer una nueva evaluación de las cantidades existentes, sin perjuicio de su aptitud o comportamiento como TV. 
+Está pendiente de hacer una nueva evaluación de las cantidades existentes, **sin perjuicio de su aptitud o comportamiento como TV**. 
 
-El procedimiento establecido para la trazabilidad está descrito en el A17:489 reproducido por DAO en mail del 3 de junio -y que para los ayuntamientos [^3]`{citarequerida}`- difiere de la APM citada y del procedimiento establecido. En respuesta a este y resto de mails, se han presentado sucesivas propuestas, la última de las cuales está pendiente de resolver.
+El procedimiento establecido para la trazabilidad está descrito en el A17:489 reproducido por DAO en mail del 3 de junio y que, para los ayuntamientos, diferiría de la APM citada y del procedimiento establecido[^2]. En respuesta a este y resto de mails, se han presentado sucesivas propuestas, la última de las cuales está pendiente de resolver.
 
 
 ----
@@ -158,28 +164,28 @@ El procedimiento establecido para la trazabilidad está descrito en el A17:489 r
 
 *El precio incluye suministro, replanteo, su mantenimiento y retirada la final de la obra* [A17:472], 8252. Medición y Abono
 
-Este último párrafo puede inducir a confusión si hay falta de contexto, debido a que se incluye su mantenimiento, que pudiera entenderse por reparación, pero no queda claro que también sea reposición. Hay que tener en cuenta que la previsión del proyecto era de 3 meses por cada centro[^2]
+Este último párrafo puede inducir a confusión si hay falta de contexto, debido a que se incluye su mantenimiento, que pudiera entenderse por reparación, pero no queda claro que también sea reposición. Hay que tener en cuenta que la previsión del proyecto era de 3 meses por cada centro[^3]
 ----
 
-
+## REFERENCIAS
+[Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción. No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan, que a su vez, tampoco tienen capítulo presupuestario alguno.
 ----
-[^1]: 8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.
-Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.
-*8.3.9.1. Medición y abono T de LER 20 02 01. Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, incluyendo transporte desde el punto de producción*.
-***La medición se realizará por T realmente ejecutada, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1 ibidem 
+[^1]: *8.3.9. GR009 T LER 20 02 01 Gestión de residuos de material biodegradable.*
+*Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.*
+>*8.3.9.1. Medición y abono T de LER 20 02 01. Entrega de residuos de material biodegradable en instalación autorizada de gestión de residuos, para su reciclaje. compostaje o valorización, **incluyendo transporte desde el punto de producción**.
+***La medición se realizará por T realmente ejecutada, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR009 que figura en el Cuadro de Precios nº 1*** ibidem
 
-[^2]:*El acopio se realizará en montones de altura inferior a 1,5 m, o en un caballón continuo con la misma altura máxima. Puesto que cada Centro estará finalizado en menos de tres meses, no es previsible que el acopio de tierra vegetal se prolongue más de seis meses* [A17:143]
-
-[^3]: *De: MORTE SOROLLA MIRIAM <mmorte@typsa.es>*
+[^2]: *De: MORTE SOROLLA MIRIAM <mmorte@typsa.es>*
 *Enviado el: viernes, 10 de mayo de 2024 15:53*
 *Para: Luis María Escondrillas Wencel <lescondrillas.wencel@telice.es>; Cristian San Millán Parrón <csmillan.parron@telice.es>; jesus.pardosinova@eiffage.com*
 *CC: Juan Pablo Mallen <juan.mallen@ineco.com>; Ricardo Aldana Ara <raldanaa@incosa.es>*
 *Asunto: Notas sobre la visita de obra del día 9 de mayo*
 ...
 *Respecto a la solitud por parte de los ayuntamientos de tierra vegetal, **se deberá hacer a través de una Declaración Responsable del Ayto, ndicando que se usaran exclusivamente en su termino municipal y para usos de parques, jardines y parcelas públicas**. Todos esto acompañado de un plano de localización del material y el volumen de tierra vegetal que se llevan. Además, recordar que es importante tener en cuanta que nosotros necesitamos tierra vegetal para los taludes de los centros. Esta documentación se debe entregar a la DO para su archivo ya que TODOS los residuos de obra tienen que estar trazados*
- 
 
-[Nota]: Señalar que SÓLO se incluye transporte DESDE el punto de producción. No incluye el viaje previo, alquileres o traslados de RSs desde Zonas de Acopio de Residuos [ZARs] de cada una de las ubicaciones y el Punto Limpio [PLs] al que correspondan, que a su vez, tampoco tienen capítulo presupuestario alguno.
+[^3]:*El acopio se realizará en montones de altura inferior a 1,5 m, o en un caballón continuo con la misma altura máxima. **Puesto que cada Centro estará finalizado en menos de tres meses**, no es previsible que el acopio de tierra vegetal se prolongue más de seis meses* [A17:143]
+
+
 <br><br>
 
 ----
