@@ -131,14 +131,30 @@ Hasta junio de 2025 el procedimiento seguido ha consistido en recopilar certific
 A partir de esa fecha, se solicita a la UTE la presentación de un certificado legal establecido en la Orden APM 1007/2017 -y que no se recoge en el PGA- del cual se llevan presentadas varias versiones hasta la última, pendiente de OK o modificación desde hace 2 semanas, toda vez que las relaciones de las subcontratas con los proveedores han variado o bien, se han extinguido [Lorin]; con lo cual, no tener un modelo definitivo para negociar en nombre de terceros, genera un desgaste que puede devenir en negativa y un problema de trazabilidad. Por tanto, en estos momentos, ante la inseguridad jurídica vigente, este procedimiento -y el relacionado como abajo se verá con los ayuntamientos- está en stand-by.
 
 * DAO relata el procedimiento seguido, descartada la gestión de las tierras como residuo, siguiendo la Orden APM 1007/2017:
-- detallando la ausencia de un contrato previo con las canteras, 
+
+- detallando la ausencia de un contrato previo con las canteras[1], 
 - la determinación de los volúmenes mediante pesaje, topográfo o como considere DO
 
 * Comento las dificultades que nos encontramos a la hora de recabar los certificados, debido al cambio de relaciones contractuales entre subcontratas y proveedores, a diferencia del procedimiento seguido con los residos. A esto se añade que está pendiente de aprobación el modelo de certificado.
 
-* DiAO replica 
+* DAO replica que el modelo está pendiente de reenviar a sus compañeros de TYPSA de Madrid y que hasta la semana que viene no le es posible.
+
+* JO propone reunión semanal para seguimiento del tema y se concreta los viernes
 
 `ACTA Reunión 25 de septiembre de 2025`
+----
+[^1]: DAO alude al incumplimiento del apdo. 6 del artículo 5 del Decreto APM 1007/2017: *6. El productor o poseedor inicial de los materiales naturales excavados, **si genera más de 1.000 toneladas al año de residuos no peligrosos deberá presentar una comunicación ante el órgano ambiental competente de la comunidad autónoma donde se generaron**, de conformidad con lo establecido en el artículo 29.1.a) de la Ley 22/2011, de 28 de julio. Así mismo, dispondrá del archivo cronológico de conformidad con el artículo 40 de la Ley 22/2011, de 28 de julio* El problema radica en la Ley está derogada por la Ley 7/22 y la comunicación previa se encuentra desarrollada en el Artículo 35: y en todo caso se aplica a:
+
+>*b) instalación, ampliación, modificación sustancial o traslado de industrias o actividades que generen más de 1000 toneladas/año de residuos no peligrosos* 
+
+Supuestos en los que no entra nuestra actividad. Más adelante se contemplan otros supuestos:
+
+>*d) realización de actividades contempladas en los artículos 33.4,*
+>*e) realización de actividades contempladas en los artículos 33.5, y*
+
+Que remiten al citado artículo: Autorización de las operaciones de recogida y tratamiento de residuos. Es decir, que no le afecta a la UTE. Así mismo, **tampoco se ha recogido en la nueva Ley el Archivo Cronológico** que cita la Orden APM.
+
+
 
 
 
