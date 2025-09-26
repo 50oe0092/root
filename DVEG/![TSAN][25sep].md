@@ -123,11 +123,23 @@ La solicitud de la parte comentarista de aclaración por parte de la contrata es
 ----
 [Plataforma Documental de Residuos ](https://aplicaciones2.aragon.es/pdr/pdr_pub/residuos/informacionAmbiental/busquedaNimas)
 ----
-# RESUMEN
+# Análisis Jurídico [AJ] de la gestión de las tierras
+## RESUMEN
 
 Hasta junio de 2025 el procedimiento seguido ha consistido en recopilar certificados de canteras con las Tierras de Saneo [TSAN] admitidas y el acopio de las Tierras Vegetales [TV] en donde se ha podido. Siguiendo las instrucciones de DAO.
 
 A partir de esa fecha, se solicita a la UTE la presentación de un certificado legal establecido en la Orden APM 1007/2017 -y que no se recoge en el PGA- del cual se llevan presentadas varias versiones hasta la última, pendiente de OK o modificación desde hace 2 semanas, toda vez que las relaciones de las subcontratas con los proveedores han variado o bien, se han extinguido [Lorin]; con lo cual, no tener un modelo definitivo para negociar en nombre de terceros, genera un desgaste que puede devenir en negativa y un problema de trazabilidad. Por tanto, en estos momentos, ante la inseguridad jurídica vigente, este procedimiento -y el relacionado como abajo se verá con los ayuntamientos- está en stand-by.
+
+* DAO relata el procedimiento seguido, descartada la gestión de las tierras como residuo, siguiendo la Orden APM 1007/2017:
+- detallando la ausencia de un contrato previo con las canteras, 
+- la determinación de los volúmenes mediante pesaje, topográfo o como considere DO
+
+* Comento las dificultades que nos encontramos a la hora de recabar los certificados, debido al cambio de relaciones contractuales entre subcontratas y proveedores, a diferencia del procedimiento seguido con los residos. A esto se añade que está pendiente de aprobación el modelo de certificado.
+
+* DiAO replica 
+
+`ACTA Reunión 25 de septiembre de 2025`
+
 
 
 
@@ -141,7 +153,10 @@ Las tierras vegetales [TVs], desde un punto de vista legal, se consideran tambi�
 >>*T de LER 17 5 02.*[sic] *Entrega de residuos de tierras y piedras diferentes a las especificadas en el código 170503 en instalación autorizada de gestión de residuos, para su reciclaje o vertido. ***El transporte de tierras limpias procedente de excavaciones se ha tenido en cuenta en el capítulo de demoliciones y Movimientos de tierra.***
 >>*La medición se realizará por T realmente ejecutada, cumpliendo las condiciones indicadas en el presente pliego. A la medición resultante se le aplicará el precio GR010 que figura en el Cuadro de Precios nº 1* [A17:494]
 
+
 ~~La interpretación de este apartado puede inducir a confusión. A diferencia de la gestión de otros residuos [RSs][^1] éste consta -desde mi punto de vista- de 2 certificaciones: una por el transporte -elemento que no aparece en el resto de residuos- y otra muy diferente, la entrega para su gestión a gestor autorizado.~~ `INTERNO`
+
+`En cuanto a la gestión en sí misma, su procedimiento es distinto del resto de RSs, así como su contabilidad, de forma que, si con el resto de RSs hay un control directo de DO vía ACR y demás, mediante DIs, este otro está excluido y se dejó a terceros -pese a que el productor y poseedor es el mismo- con lo cual, se incrementan las dificultades de control e inspección. Lo cual, obliga a la UTE a actuar en desventaja ante terceros 26 de septiembre de 2025`
 
 # 2. Crono TVs y TSAN
 Dada la dificultad observada de contejar albaranes con certificaciones, las cifras de TSAN se obtienen diréctamente de ACO por certificación mediante aporte de los albaranes correspondientes y se adjuntan al DiAO [ver mail 12/3/25] Así, aparece en el DiAO desde esta fecha, a la espera de actualización, desde la certificación de febrero de 2025. 
