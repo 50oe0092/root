@@ -1,19 +1,19 @@
-De: MORTE SOROLLA MIRIAM <mmorte@typsa.es>
-Enviado: Viernes, 26 de Septiembre de 2025 11:28
-Para: Mallén Artigas, Juan Pablo <juan.mallen@ineco.com>; Alejandro Obregón Caro <aobregon.caro@telice.es>; Miguel Ángel Del Toro Olmedo <madeltoroo@incosa.es>; Ricardo Aldana Ara <raldanaa@incosa.es>; ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
-CC: José María Robles Cuesta <jmrobles@telice.es>; Arturo Pérez Gaviria <aperez.gaviria@telice.es>; Francisco Javier Estella Retamosa <jestella@adif.es>
-Asunto: RE: ESTUDIO DE TERRENO CON RESIDUOS
+    De: MORTE SOROLLA MIRIAM <mmorte@typsa.es>
+    Enviado: Viernes, 26 de Septiembre de 2025 11:28
+    Para: Mallén Artigas, Juan Pablo <juan.mallen@ineco.com>; Alejandro Obregón Caro <aobregon.caro@telice.es>; Miguel Ángel Del Toro Olmedo <madeltoroo@incosa.es>; Ricardo Aldana Ara <raldanaa@incosa.es>; ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
+    CC: José María Robles Cuesta <jmrobles@telice.es>; Arturo Pérez Gaviria <aperez.gaviria@telice.es>; Francisco Javier Estella Retamosa <jestella@adif.es>
+    Asunto: RE: ESTUDIO DE TERRENO CON RESIDUOS
 
 
-Buenos días
+    Buenos días
  
-Tal y como os comenté este tipo de ensayos sirven para caracterizar el residuo en un LER y nos indiquen la tipología de residuo (inerte, peligroso y no peligroso). Ambos ensayos se deben realizar, para obtener la información.
+    Tal y como os comenté este tipo de ensayos sirven para caracterizar el residuo en un LER y nos indiquen la tipología de residuo (inerte, peligroso y no peligroso). Ambos ensayos se deben realizar, para obtener la información.
  
-El ensayo de caracterización se hace en base al Reglamento de la Unión Europea 1357/2014 y el de admisión de vertedero RD 1481/2001 y la orden AAA/661/2013.
+    El ensayo de caracterización se hace en base al Reglamento de la Unión Europea 1357/2014 y el de admisión de vertedero RD 1481/2001 y la orden AAA/661/2013.
  
-Respecto a que laboratorio lo realiza me han pasado los siguientes: ECA o OCA Applus, Basoinsa, Afesa, Tüv
+    Respecto a que laboratorio lo realiza me han pasado los siguientes: ECA o OCA Applus, Basoinsa, Afesa, Tüv
  
-Espero haber sido de ayuda.
+    Espero haber sido de ayuda.
  
 Un saludo,
 

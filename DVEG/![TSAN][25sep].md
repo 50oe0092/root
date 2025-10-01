@@ -160,7 +160,7 @@ Que remiten al citado artículo: Autorización de las operaciones de recogida y 
 
 
 # 1 [TVs] Análisis Jurídico [AJ]
-Las tierras vegetales [TVs], desde un punto de vista legal, se consideran también residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplicaría la Ley 7/22 -que derogó la Ley 22/11- que a su vez, no presenta procedimientos distintos de la citada Orden. Sin embargo, debido a esa consideración de residuo, esto genera inseguridad jurídica. 
+Las tierras vegetales [TVs], desde un punto de vista legal, se consideran también residuos o tierras de saneo con el LER 17 05 04 y por tanto, sujetas al procedimiento establecido en la Orden APM 1007/2017. Excepción hecha con Ayuntamientos que sólo se les requiere una Declaración Responsable [DR] `DAO, com. pers.` En principio no aplicaría la Ley 7/22 -base de la Orden APM 1007/2017  y que se derogó mediante la Ley 22/11- que a su vez, no presenta procedimientos distintos de la citada Orden, pero tampoco "hereda" el procedimiento establecido en la citada orden. Sin embargo, debido a esa consideración de residuo, esto genera inseguridad jurídica. Sobre todo, en el apartado de depósito en terrenos público previa Declaración Responsable del Ayuntamiento donde se ubica la obra.
 
 # 2. [TSAN] Análisis Jurídico [AJ]
 >*8.3.10. GR010 T LER 17 05 04 Gestión de tierras y piedras diferentes a las especificadas en el código 170503. Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones de ejecución* [17 01 01 Hormigón limpio]
