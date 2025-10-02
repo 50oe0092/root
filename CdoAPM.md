@@ -13,7 +13,7 @@ Todo los préstamos y vertederos que se usen deben ser legales, por lo que se de
 
 `El procedimiento legal está establecido mediante Orden APM 1007/2017 y la UTE ha demostrado su cumplimiento y con adición motu propio de documentación de prueba.` 
 
-`Cualquier documento adicional o de respaldo debiera ir acreditado por norma legal, de desarrollo, documento contractual o en el proyecto y sus desarrollos; en conclusión, y con todos los respetos solicito por tercera vez nos indiques la obligación legal de la UTE de recabar esa información del valorizador, que no ésta en el artículo 4 -obligaciones de los productores- de la Orden APM 1007/2017. En el artículo siguiente -obligaciones de entidades que realizan actividades de valorización- si bien habla de esa comunicación, ésta es previa a su actividad profesional, no de todos y cada uno de los productores (Artículo 5.1.a)`
+`Cualquier documento adicional o de respaldo debiera ir acreditado por norma legal, de desarrollo, documento contractual o en el proyecto y sus desarrollos; en conclusión, y con todos los respetos **solicito por tercera vez** nos indiques la obligación legal de la UTE de recabar esa información del valorizador, que no ésta en el artículo 4 -obligaciones de los productores- de la Orden APM 1007/2017. En el artículo siguiente -obligaciones de entidades que realizan actividades de valorización- si bien habla de esa comunicación, ésta es previa a su actividad profesional, no de todos y cada uno de los productores (Artículo 5.1.a)`
 
 Este hecho es cumplimiento de proyecto y no hay mucho más que decir. `Ya desarrollado arriba`
 
@@ -24,9 +24,11 @@ El viernes hay una reunión con este tema.
 
 Esta en copia el DO por si es preciso acreditar y/o ackarar algo más.
 
-En conclusión, nadie pone en duda la pertinencia de exigir una u otra documentación ni que en otras obras así se haga, pero en todos los casos debe de sustentarse en un marco legal que, sin perjuicio de que me equivoque, echamos en falta. Además, la acción de exigir documentación adicional de terceros sin relación comercial alguna, es un claro abuso y menoscaba la buena fe contractual. 
+`Finalmmente, nadie pone en duda la pertinencia de exigir una u otra documentación ni que en otras obras así se haga, pero en todo -incluidas esas otras obras- debería de sustentarse en un marco legal que, sin perjuicio de que me equivoque, echamos en falta. Además, esto podría suponer un abuso y menoscabo de la buena fe contractual. Todo ello agravado por el hecho de tener que exigir documentación adicional de terceros sin relación comercial alguna, y que además, en el caso que nos ocupa, está extinta.` 
 
+`Por tal motivo, someto a vuestra consideración la posibilidad de elevar consulta a ADIF mediante inicio de procedimiento administrativo motu proprio en base a la Ley 39/15, sin perjucio de que este mismo documento sirva de notificación practicada de las irregularidades que pudieran determinarse.`
 
+----
 ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
 Enviado el: martes, 30 de septiembre de 2025 16:32
 Para: MORTE SOROLLA MIRIAM <mmorte@typsa.es>
