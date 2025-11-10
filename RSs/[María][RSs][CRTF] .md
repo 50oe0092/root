@@ -1,0 +1,43 @@
+De: Alejandro Obregón Caro <aobregon.caro@telice.es>
+Enviado: Martes, 04 de Noviembre de 2025 10:04
+Para: ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
+CC: Arturo Pérez Gaviria <aperez.gaviria@telice.es>
+Asunto: RE: Oferta Gestión tierras contaminadas Mª Huerva y sustanciar oferta ensayos caracterización suelos cotaminados
+
+ 
+
+## Por favor, monta un argumento para reclamar un **mayor costo** al que tenemos contemplado en el contrato.
+El origen de este apartado está en un mail de DO de 7/10 donde se comunica el precio de la gestión de RTPs:
+
+  *PN13-GBB020b Ton Gestión de residuos de tierras contaminadas. 71,04 €*
+
+Esto contrasta con A18:38 / GR011 que asciende a 120 €/Ton, pero sólo incluye gestión y transporte hasta instalaciones del gestor[^1] y con el Pliego con las mismas condiciones:
+
+  *Artículo III.47 NGR011 RESIDUOS PELIGROSOS Es de aplicación lo definido en el artículo GR003 en cuanto a Definición, Exigencias previas y Condiciones de ejecución.*
+  
+  *1. Medición y abono T de Residuos Peligrosos. Entrega de residuos peligrosos en instalación autorizada de gestión de residuos, para su reciclaje, incluyendo transporte desde el punto de producción*
+
+Puntualizar que el artículo GR003 no se refiere la Pliego, porque no se encuentra ahí, sino al A18:33[^2] que a su vez remite al artículo GR002[^3]
+
+
+ 
+
+## Por otro lado, por favor, intenta confirmar que lo que se paga en el contrato es **pura gestión del estudio y no el transporte**.
+
+ 
+
+Esto hazlo con carácter retroactivo en todas las gestiones de tierras que se hayan hecho.
+
+----
+[^1]: *MEDICIÓN Y ABONO T de Residuos Peligrosos. Entrega de residuos peligrosos en instalación autorizada de gestión de residuos, para su reciclaje, incluyendo transporte desde el punto de producción*
+[^2]: *GR003 T LER 17 02 01 GESTIÓN DE RESIDUOS DE MADERA Es de aplicación lo definido en el artículo GR002 en cuanto a Definición, Exigencias previas y Condiciones
+de ejecución* A18:33
+[^3]: *8.2. Transporte y canon de gestión de residuos GR002 T LER 17 01 01. GESTIÓN DE RESIDUOS DE HORMIGÓN SIN MEZCLA. G615. Gestión de residuos. Esta unidad consiste en la gestión de los residuos generados durante la realización de las obras objeto del presente proyecto. Considera diversos aspectos de dicha gestión, como son:*
+*- La clasificación de los residuos de demolición en diversas fracciones de los distintos tipos de residuos generados, en contenedores diferenciados y convenientemente señalizados.*
+*- La recogida de los residuos de construcción y demolición, una vez clasificados en los distintos contenedores de las obras y su transporte al centro de reciclaje y/o vertido más apropiado para cada tipo de residuo. La gestión de los diferentes tipos de residuos se realizará, tal y como indica el Real Decreto 105/2008, identificándolos con arreglo a la Lista Europea de Residuos publicada por Orden MAM/304/2002 de 8 de febrero o sus modificaciones posteriores.*
+*El transporte y depósito final de residuos debe realizarse mediante transportista autorizado y en las instalaciones de un gestor debidamente autorizado para el residuo en cuestión:*
+*- Planta de compostaje o vertedero para los residuos de origen vegetal.*
+*- Vertedero o planta de reciclaje para residuos inertes y asimilables a urbanos.*
+*- Planta de reciclaje para residuos fácilmente valorizables, como papel, vidrio, metal, y plástico.*
+*- Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan
+contener sustancias peligrosas* A18:23
