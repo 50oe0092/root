@@ -22,7 +22,7 @@ Puntualizar que el artículo GR003 no se refiere la Pliego, porque no se encuent
 
 Porqué se plantea este problema de certificación:
 
-Se parte de la base de que todos los residuos -menos tierras (LER 170504)- comparten mismos criterios, salvo el precio por tonelada. Porque en Medición y Abono se concluye que, para todos los residuos, sólo se incluye el trasporte desde el punto de producción. A diferencia de las tierras, que a efectos del proyecto, se considera un residuo. 
+Se parte de la base de que todos los residuos -menos tierras (LER 170504)[^4]- comparten mismos criterios, salvo el precio por tonelada. Porque en Medición y Abono se concluye que, para todos los residuos, sólo se incluye el trasporte desde el punto de producción. A diferencia de las tierras, que a efectos del proyecto, se considera un residuo.`Análisiss Pliego LER 170504` 
  
 
 ## Por otro lado, por favor, intenta confirmar que lo que se paga en el contrato es **pura gestión del estudio y no el transporte**.
@@ -44,3 +44,21 @@ de ejecución* A18:33
 *- Planta de reciclaje para residuos fácilmente valorizables, como papel, vidrio, metal, y plástico.*
 *- Depósito controlado o planta de reciclaje específica para residuos peligrosos o que puedan
 contener sustancias peligrosas* A18:23
+
+[^4]:De: ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
+Enviado: Martes, 07 de Octubre de 2025 9:17
+Para: Cristian San Millán Parrón <csmillan.parron@telice.es>; Alejandro Obregón Caro <aobregon.caro@telice.es>
+CC: Arturo Pérez Gaviria <aperez.gaviria@telice.es>
+Asunto: RE: LER 170405 RE: Regularización documentación medioambiente. 
+
+... 
+
+Tal y como vengo comentando reiteradamente -y el análisis de este LER facilita comprensión- este LER tiene varios apartados y concluyen en apdo del LER gestionado que es la suma que he hecho.
+
+Pues bien, en el resto de LER de residuos NO LO HACEMOS: sólo nos pagan gestión (equivale al cº cantera LER 170504) y traslado origen a destino. 
+
+Faltaría:
+- Colocación y mantenimiento Puntos Limpios [PL]
+- Alquiler cubas y cambio de las mismas (vuelta del camión)
+- Colocación y manten. de Zonas Acopio Residuos [ZAR] (descrito en A17:487)
+- Traslado sacas ZAR a PL
