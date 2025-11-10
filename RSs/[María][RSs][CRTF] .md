@@ -7,8 +7,18 @@ Asunto: RE: Oferta Gestión tierras contaminadas Mª Huerva y sustanciar oferta 
  
 
 ## Por favor, monta un argumento para reclamar un mayor costo al que tenemos contemplado en el contrato
-
 El origen de este apartado está en un mail de DO de 7/10 donde se comunica el precio de la gestión de RTPs:
+
+  *PN13-GBB020b Ton Gestión de residuos de tierras contaminadas. 71,04 €*
+
+Esto contrasta con A18:38 / GR011 que asciende a 120 €/Ton, pero **sólo incluye gestión y transporte hasta instalaciones del gestor**[^1] (desarrollado en el apdo. siguiente)
+
+En estos momentos, sólo por RTPs se está pagando `ver Reciclarte`
+
+
+## Por otro lado, por favor, intenta confirmar que lo que se paga en el contrato es **pura gestión del estudio y no el transporte**.
+
+El origen de este apartado podría ser el mismo que el anterior; un mail de DO de 7/10 donde se comunica el precio de la gestión de RTPs:
 
   *PN13-GBB020b Ton Gestión de residuos de tierras contaminadas. 71,04 €*
 
@@ -22,11 +32,8 @@ Puntualizar que el artículo GR003 no se refiere la Pliego, porque no se encuent
 
 Porqué se plantea este problema de certificación:
 
-Se parte de la base de que todos los residuos -menos tierras (LER 170504)[^4]- comparten mismos criterios, salvo el precio por tonelada. Porque en Medición y Abono se concluye que, para todos los residuos, sólo se incluye el trasporte desde el punto de producción. A diferencia de las tierras, que a efectos del proyecto, se considera un residuo.`Análisiss Pliego LER 170504` 
+Se parte de la base de que todos los residuos -menos tierras (LER 170504)[^4]- comparten mismos criterios, salvo el precio por tonelada. Porque en Medición y Abono se concluye que, para todos los residuos, sólo se incluye el trasporte desde el punto de producción. A diferencia de las tierras, que a efectos del proyecto, se considera un residuo.`Análisis Pliego LER 170504` 
  
-
-## Por otro lado, por favor, intenta confirmar que lo que se paga en el contrato es **pura gestión del estudio y no el transporte**.
-
  
 
 Esto hazlo con carácter retroactivo en todas las gestiones de tierras que se hayan hecho.
