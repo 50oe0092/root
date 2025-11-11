@@ -43,6 +43,7 @@ Artículo III.424 UXP01XMT1c. DESBROCE Y LIMPIEZA SUPERFICIAL DE TERRENO DE BOSQ
 <!--1 st Take this table: 123456789Excavación Tierras  (m3)Desbroce (m2)Espesor TV (m)Desbroce (m3)COMPROBACIÓNDensidad (tn/m3)Tierras excavadas  (tn)Orden APM entregadas (tn)LOCALIDADESUX01XMT001 / G01030002UXP01XMT1C[MM]m3Factor[0.25-0.3 Ton/m3]Muel661,161421,110,2284,22284,22271,05551,81190,091788,48Longares1034,418690,2373,8373,893,451,81861,923073,39Cariñena7222,639877,220,21975,441975,444493,8611,813000,7313102Encinacorba209,581698,20,2339,64339,6484,911,8377,24775,8Villahermosa678,291860,70,2372,14372,1493,0351,81220,922475 2nd Take this table and calculate  real "desbroce" (Column 6th, variable) to reach to column 9th (fixed)-->
 
 <!--1 Take this last table and calculate  real "desbroce" (Column 6th, variable) to reach to column 9th (fixed)2 In order to thickness of "Desbroce" by "localidades" (towns): Longares lowest, then Muel, next Encinacorba, next Cariñena and finally Villahermosa3 The density of "Desbroce is a fork between 0.25-0.3 or ligthty more proportionally to the towns-->
+ `random 8% over/upper`
 
 ## Broza y restos vegetales
 
