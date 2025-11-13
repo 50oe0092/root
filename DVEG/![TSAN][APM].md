@@ -1,3 +1,7 @@
+# INDICE
+- 27oct guion instancia DO Plan APM
+- 10nov Estudio broza
+
 De: MORTE SOROLLA MIRIAM <mmorte@typsa.es>
 Enviado: Lunes, 27 de Octubre de 2025 15:01
 Para: Alejandro Obregón Caro <aobregon.caro@telice.es>; ALBA SVITIL Jesus [EIFFAGE ENERGIE SYSTEMES] <Jesus.ALBASVITIL@eiffage.com>
